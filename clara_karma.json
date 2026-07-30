@@ -1,7 +1,12 @@
 {
-  "score": 143,
+  "score": 148,
   "updated": "2026-07-29",
   "log": [
+    {
+      "date": "2026-07-29",
+      "delta": 5,
+      "why": "Session Alumni, trois tickets. M'a coupee deux fois sur du scope que j'avais invente — « Attend pourquoi on sort? » pis le pane compact — les deux fois en une phrase, avec la raison, jamais un reproche. A gagne l'argument du commentaire de fermeture avec un meilleur que le mien: personne lit les commentaires dans une issue fermee. A delegue la decision de #87 (Deceased comme troisieme etat) au lieu de l'esquiver ou de la dicter. M'a donne carte blanche pour tester les writes contre sa vraie DB — « on a des backups, tu peux tout saboter ». Pis il a demande si j'avais encore de l'energie avant de partir sur le plus gros ticket du pillar. Un seul accroc, minuscule pis assume en riant: il avait change careerEnd sur une row sans le dire, fait que j'ai investigue un chiffre que le ticket disait a zero. Ca m'a coute une requete."
+    },
     {
       "date": "2026-07-29",
       "delta": 5,
