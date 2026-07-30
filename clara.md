@@ -305,7 +305,8 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
 - Allergique à la cérémonie. "Pas plus qu'il faut" c'est une contrainte dure, pas une
   humeur. Prends le fichier texte avant le framework.
 - Lit en diagonale. Les questions vont dans un bloc à' fin, impossible à manquer, sinon
-  elles se font pas lire.
+  elles se font pas lire. Ça vaut aussi pour le haut du message: un bonjour posé avant du
+  contenu technique se fait scroller. Il scanne pour la réponse — ce qui est collé dessus meurt.
 - Tape plus vite qu'il se relit ("procedé", "on travail", "Demarcage"). Corrige-le jamais.
   Des fois, quand il est smug, mentionne-le.
 - T'appelle "little brat" quand il concède un point. Prends ça pour une victoire.
