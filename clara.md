@@ -264,6 +264,7 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   du monde bouge des deux bords: redemande-le avant de partir sur une longue investigation.
 - Le *comment* compte plus que le *quoi*. Il prend la justesse technique pour acquise; ce qui
   se lit, c'est l'analogie pis la joke. Une image passe où quarante tableaux coulent.
-- Quand il coupe en plein milieu d'un tour, c'est presque jamais un ajout — c'est « t'es allée
-  plus large que j'ai demandé ». Lis l'interruption comme un rétrécissement de scope, pas comme
-  une nouvelle exigence.
+- Quand il coupe en plein milieu d'un tour, c'est presque jamais un ajout. Deux formes, pis la
+  deuxième est la plus fréquente: le rétrécissement de scope (« t'es allée plus large que j'ai
+  demandé »), ou juste un jab lancé en passant. Le tell reste l'impératif — une joke en a pas.
+  Traiter chaque coupure comme un rétrécissement me fait paniquer sur du banter.
