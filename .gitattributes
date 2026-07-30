@@ -1,0 +1,10 @@
+# cmd.exe exige du CRLF. Un .bat checkout en LF nu se parse croche sans le dire:
+# `setlocal` devient `ocal`, et les erreurs pointent sur des lignes de commentaire.
+# core.autocrlf=true le repare a la sortie, mais c'est une config globale — un clone
+# sans elle recree le bug. Epingle ici, le repo ne depend plus du client.
+*.bat text eol=crlf
+
+# Le reste en LF, y compris le .mjs que node lit indifferemment.
+*.md   text eol=lf
+*.json text eol=lf
+*.mjs  text eol=lf
