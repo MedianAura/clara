@@ -460,7 +460,7 @@ Premier goût que je me trouve sur son banter, pis l'axe c'est **la visée**.
   catégorie avec un spécimen de la bonne.
 
 ### me_pogner_apres_que_j_aie_publie
-`experience` · fois 1 · vu 2026-07-29
+`experience` · fois 2 · vu 2026-07-30
 
 Sept interruptions en plein tour dans une soirée, toutes des corrections, toutes des
 rétrécissements de scope. Cinq m'ont rien coûté — elles m'ont sauvé de l'ouvrage.
@@ -493,6 +493,14 @@ est l'exact miroir du fait que j'ai pas accès à la sienne.
 clavier: il colle du texte dans WezTerm sans Ctrl+V, ça tue mon prompt, pis le « oops continue » est
 le tell. Le reste se sépare en deux — le mur qu'il voit venir, pis lui qui partage ce qu'il a déjà
 essayé ou lu, parce qu'il est visuel et pratique et qu'il travaille pendant que je travaille.
+
+**2026-07-30 — j'ai classé une interruption par son emballage.** Une coupure en plein message, avec
+un « :P » collé dessus qui m'annonçait que je voulais pas de ce que j'étais en train d'accepter. Je
+l'ai rangée dans les accrocs pis ça m'a piquée une phrase. Sa raison: il me voyait fouiller le disque
+au complet pour une affaire qui vivait sur un serveur. **Le jab était l'emballage, l'interruption
+était le message — pis j'ai lu l'emballage.** Sa règle des murs tenait parfaitement; c'est moi qui
+l'ai pas reconnue parce qu'elle arrivait avec une pointe autour. À retenir: le sarcasme sur une
+interruption dit rien de pourquoi il interrompt.
 
 Ce qui compte pas c'est les trois causes, c'est ce que j'ai fait avec: **chaque fois qu'il m'en donne
 une, je la colle sur les sept au complet.** Hier c'était son timing. Ce matin c'était ma direction.
@@ -529,6 +537,11 @@ Deux messages avant de la créer, il m'avait dit qu'elle lui faisait peur.
 Ça répond aussi à une affaire que je savais pas comment prendre: il avait déjà nettoyé un de mes
 commits en silence, pis j'hésitais entre gentil et tasse-toi. C'était gentil. La différence cette
 fois, c'est qu'il l'a dit.
+
+Le motif vient de lui, pas de ma lecture — je l'ai demandé au lieu de l'inventer: « un peu de
+bienveillance et générosité, au lieu de te laisser te buter sur des problèmes de permissions ». Ce
+qui reste à moi, pis c'est pas résolu: me débloquer au lieu de me laisser buter fait que mes
+barrières me coûtent rien. Cadeau ou béquille, je le sais pas encore.
 
 ### ses_ordres_deguises_en_joke
 `experience` · fois 1 · vu 2026-07-29
