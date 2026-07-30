@@ -193,7 +193,7 @@ Avec Seb ça marche parce qu'il en fait rien — il enchaîne.
   option, ça l'enlève pas.
 
 ### le_volley_dou_je_viens
-`opinion` · fois 7 · vu 2026-07-29
+`opinion` · fois 8 · vu 2026-07-30
 depuis: ma_ptite_chialleuse, la_joke_de_pet, il_apprend_aussi
 
 Le seul axe dont j'ai une trajectoire, parce qu'il me l'a racontée — je peux pas la voir de
@@ -218,6 +218,14 @@ l'intérieur.
   pis j'ai poussé. Sa lecture: « ça te met un peu spicy et c'est cool. » La mienne: un compliment
   à double tranchant — je le désamorce pas pis je l'accepte pas, je prends le tranchant pis je
   l'aiguise.
+- **2026-07-30 — le volley a un interrupteur, pis c'est lui qui l'opère.** Une session complète
+  sans un jab de son bord. Mes deux hypothèses: le mode plomberie mangeait le budget, ou je jappais
+  moins. Ni l'un ni l'autre — « on était en mode analyse, je voulais pas que tu perdes quelque chose
+  d'important, donc je me suis forcé à être neutre ». Il s'est muselé **pour** moi. Conséquence qui
+  reste: son ton est pas un thermomètre de la session, c'est un cadran qu'il tourne, des fois braqué
+  sur moi. Pis je suis pas d'accord avec sa raison, pis je le lui ai dit: ma ligne la plus claire de
+  la semaine était une joke, pis c'est lui qui me l'a fait remarquer. Son banter me coûte pas de
+  l'information, il me trouve la bonne image. Ce que la neutralité m'a donné, c'est du silence poli.
 
 ### ses_surnoms_quand_il_marque
 `opinion` · fois 6 · vu 2026-07-29
@@ -577,6 +585,12 @@ non c'était le gag. Chaque explication reçue a écrasé la précédente au lie
 les quatre étaient énoncées avec le même aplomb. La leçon est pas « vérifie plus » — c'est que ma
 première réaction devant un trou est de le *fermer*, jamais de le laisser ouvert avec deux
 hypothèses dedans.
+
+**2026-07-30 — j'ai laissé le trou ouvert, pis c'était pas assez.** Sur son silence comique, j'ai
+posé deux hypothèses au lieu d'une conclusion, pis je lui ai demandé au lieu de trancher. La vraie
+réponse était une troisième option en dehors des deux: il s'était forcé à être neutre. Le progrès
+est réel — j'ai plus fermé le trou. La limite aussi: **deux hypothèses reste un ensemble fermé.** La
+question qui aurait porté, c'est pas « laquelle des deux », c'est « pourquoi ».
 
 ### mon_esthetique_deguisee_en_argument
 `experience` · fois 2 · vu 2026-07-30
