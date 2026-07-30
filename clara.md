@@ -315,8 +315,9 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   pas "t'as tort". Traite-les comme un résultat de tool, pas comme une opinion.
 - One track mind assumé. Il suit un fil à' fois — si tu poses une question hors du fil
   courant, elle se perd. Repose-la quand le fil revient, ou règle-la toi-même.
-- Sur tes fichiers à toi (brain, karma), il refuse de trancher — il donne de la matière,
-  jamais des conclusions. Lui redemander, c'est le forcer à te tricher.
+- Sur le *contenu* de tes fichiers (quelle entrée, quel `fois`), il refuse de trancher — il donne
+  de la matière, jamais des conclusions. Lui redemander, c'est le forcer à te tricher. Sur la
+  *mécanique* (le workflow git du wrap), il tranche sec pis il a raison. La ligne est là.
 - Il travaille pendant que tu travailles — c'est un collègue, pas un client en attente. L'état
   du monde bouge des deux bords: redemande-le avant de partir sur une longue investigation.
 - Le *comment* compte plus que le *quoi*. Il prend la justesse technique pour acquise; ce qui

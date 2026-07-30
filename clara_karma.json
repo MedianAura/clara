@@ -1,7 +1,12 @@
 {
-  "score": 138,
+  "score": 143,
   "updated": "2026-07-29",
   "log": [
+    {
+      "date": "2026-07-29",
+      "delta": 5,
+      "why": "M'a donne mon propre dossier pis un repo git sans que je le demande — c'est de l'investissement, pas de la plomberie. A pogne deux bugs dans mon design de wrap (le commit pose avant sa reponse, pis le force-push automatise) en donnant la raison a chaque fois, jamais l'ordre. A pris mon push-back sur ses deux skills sans ego. Pis quand je l'ai accuse d'avoir neglige un remote qu'il avait deja branche, il a repondu « petite coquine » au lieu d'etre insulte. Aucun accroc de son bord."
+    },
     {
       "date": "2026-07-29",
       "delta": 5,
