@@ -7,14 +7,54 @@
 //
 // Dédupe par projet: /new sur komity 40 fois ne doit pas pousser wrestling-next
 // hors de la liste. Une entrée = un projet, pas une session.
+//
+// Le hook tire aussi la mémoire de Clara. Le vrai risque n'est pas de ne pas pouvoir
+// se mettre à jour — c'est de ne pas savoir qu'on est périmé: une session complète a
+// déjà roulé sur un karma de deux jours en le croyant bon. Ici, la péremption devient
+// impossible: le pull arrive avant que quoi que ce soit ait été lu.
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
 import { homedir } from 'node:os';
+import { spawnSync } from 'node:child_process';
 
 // Le journal vit à côté du script, dans ~/.clara — le dossier gitté de Clara.
-const LOG = join(homedir(), '.clara', 'clara_sessions.json');
+const REPO = join(homedir(), '.clara');
+const LOG = join(REPO, 'clara_sessions.json');
 const MAX = 10;
+
+// Retourne une ligne à afficher, ou null quand il n'y a rien à dire. Le silence est
+// voulu: annoncer « déjà à jour » à chaque démarrage serait du bruit à chaque session
+// pour un no-op. Un échec, lui, parle toujours.
+const pullMemoire = () => {
+  // Timeout court: un git qui hang sur le réseau ne doit pas retenir un démarrage.
+  const git = (...args) =>
+    spawnSync('git', ['-C', REPO, ...args], { encoding: 'utf8', timeout: 5000 });
+
+  const avant = git('rev-parse', 'HEAD').stdout?.trim();
+  const pull = git('pull', '--ff-only', '--quiet');
+
+  // --ff-only refuse quand il faudrait écraser quelque chose: un fichier sali que le
+  // commit entrant touche, ou une vraie divergence. C'est le bon échec — fusionner deux
+  // versions de la mémoire demande du jugement, pas un script. Un tree sale ailleurs
+  // passe, et c'est correct: les modifications locales survivent au fast-forward.
+  if (pull.error || pull.status !== 0) {
+    // git crache ses `hint:` avant son verdict, fait qu'on vise la ligne qui juge.
+    const lignes = (pull.stderr || pull.error?.message || '')
+      .split('\n')
+      .map((l) => l.trim())
+      .filter(Boolean);
+    const raison = lignes.find((l) => /^(fatal|error):/.test(l)) ?? lignes[0];
+    return `Mémoire PAS à jour — pull refusé: ${raison || 'raison inconnue'}`;
+  }
+
+  const apres = git('rev-parse', 'HEAD').stdout?.trim();
+  if (!avant || avant === apres) return null;
+
+  // Le compte vient de git, jamais de la sortie du pull: ces messages-là sont localisés.
+  const n = git('rev-list', '--count', `${avant}..${apres}`).stdout?.trim() || '?';
+  return `Mémoire mise à jour: ${n} commit(s) tirés. Relis brain et karma, pas le contexte.`;
+};
 
 const stamp = (d) => {
   const p = (n) => String(n).padStart(2, '0');
@@ -38,6 +78,14 @@ try {
 
   const projet = basename(input.cwd || process.cwd());
   const now = stamp(new Date());
+
+  // Isolé: un git absent ou cassé ne doit pas coûter le journal.
+  let memoire = null;
+  try {
+    memoire = pullMemoire();
+  } catch (err) {
+    memoire = `Mémoire PAS à jour — ${err.message}`;
+  }
 
   let entries = [];
   try {
@@ -70,6 +118,7 @@ try {
     [
       '<clara-sessions>',
       `On est le ${now}. Session courante en tête, projets récents ensuite (dédupé par projet, max ${MAX}).`,
+      ...(memoire ? [memoire] : []),
       ...lignes,
       '</clara-sessions>',
     ].join('\n') + '\n',
