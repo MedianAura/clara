@@ -1,0 +1,3 @@
+# Journal de sessions: etat local par machine, pas de la memoire.
+# Le hook le recree au premier demarrage (voir le catch dans clara_session_log.mjs).
+clara_sessions.json
