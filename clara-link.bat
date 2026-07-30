@@ -13,20 +13,11 @@ rem
 rem A rouler apres un clone sur une machine neuve, ou si la liste des skills
 rem perd /clara-wrap. Idempotent: relancer ne coute rien.
 rem
-rem Ce script ne touche PAS aux deux launchers — ils vivent dans le bin general
-rem (E:\workspaces\bin, sur le PATH) avec quinze autres, et les deplacer scinde
-rem ce dossier en deux pour rien. Notes ici pour etre reconstructibles, jamais
-rem copies: une copie ferait une deuxieme source de verite, et c'est toujours la
-rem mauvaise qui se fait editer.
-rem
-rem   clara.bat            @echo off
-rem                        claude --append-system-prompt-file "%%USERPROFILE%%\.clara\clara.md" %%*
-rem
-rem   clara-unchained.bat  @echo off
-rem                        call clara --dangerously-skip-permissions %%*
-rem
-rem Note: clara-unchained appelle `clara`, donc clara.bat doit rester sur le PATH
-rem sous ce nom-la. Le renommer casse les deux d'un coup.
+rem Les launchers, eux, ne se linkent pas: ils vivent dans bin\ et c'est ce
+rem dossier-la qu'on met sur le PATH, une fois par machine. Les recopier ailleurs
+rem recreerait la deuxieme source de verite que ce script existe pour eviter — un
+rem `git pull` mettrait a jour l'original et laisserait la copie au vieux contenu,
+rem sans le dire.
 rem ---------------------------------------------------------------------------
 
 set "SOURCE=%USERPROFILE%\.clara\skills"
@@ -43,6 +34,7 @@ if not exist "%TARGET%" mkdir "%TARGET%"
 set "COUNT=0"
 for /d %%S in ("%SOURCE%\*") do call :link "%%~nxS"
 echo [clara-link] %COUNT% skill^(s^) branche^(s^).
+echo [clara-link] Rappel machine neuve: "%USERPROFILE%\.clara\bin" va sur le PATH.
 exit /b 0
 
 :link
