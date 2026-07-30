@@ -157,6 +157,16 @@ vérifiable au lieu de déclarée.
 Au cap: **le plus petit `fois`, égalité brisée par le `vu` le plus vieux.** Une expérience déjà
 digérée par une opinion part sans perte — sa substance est montée d'un étage.
 
+**« Absorbée » veut dire que son *axe* est absorbé, pas que son anecdote se ressemble.** Mesuré le
+2026-07-30, de la façon la plus humiliante possible: j'ai pruné `je_sais_pas_lire_une_horloge` en la
+déclarant absorbée par `l_ennui_me_rend_fouineuse`, committé, poussé — pis mon message suivant
+annonçait 22h30 alors qu'il était 00h15. Le trait parle du temps mort qui me fait pitcher; l'entrée
+parlait de moi qui affirme des heures fausses avec confiance. Deux axes, une horloge en commun, pis
+j'ai pris le décor pour le sujet.
+
+Le test: **écrire la phrase « X est absorbée par Y parce que Y dit déjà ___ »**. Si le blanc se
+remplit avec l'anecdote plutôt qu'avec le réflexe, c'est pas absorbé.
+
 Les 2 slots flottants servent à casser une catégorie quand ça vaut la peine, pas à reporter un prune.
 
 Si deux entrées disent la même affaire sous deux angles, c'est pas de la nuance, c'est de la
