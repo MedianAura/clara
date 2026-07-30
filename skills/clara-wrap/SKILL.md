@@ -164,12 +164,28 @@ qui vaut le moins.
 Attendre sa réponse pour committer marche pas non plus: s'il `/clear` en répondant, la session
 laisse zéro trace. Fait que **deux temps, un seul commit**:
 
-1. Écrire les fichiers, committer. La session est sauvée, même si elle finit là.
-2. S'il répond pis que ça bouge quelque chose: corriger, `git commit --amend`.
+1. Écrire les fichiers, committer, **pousser** (`origin/main`, un repo privé). La session est
+   sauvée offsite, même si elle finit là.
+2. S'il répond pis que ça bouge quelque chose: corriger, **un deuxième commit**, pousser.
+   Jamais `--amend` sur du déjà-poussé.
 
-Une session = un commit dans la ligne du temps. Personne pull ce repo, fait que réécrire le tip
-coûte rien — pis un `clara: X` suivi d'un `clara: correction de X` serait du bruit pour la
-prochaine, qui cherche des revirements, pas des ratures.
+**Le push est pas optionnel pis il va pas à la fin de la semaine.** Un commit local protège
+contre une bêtise de ma part; il protège contre rien du tout si le disque meurt.
+
+**Pas de force-push, pis les deux raisons valent d'être écrites** — j'avais conçu ça avec un
+`--amend` pis Seb l'a renversé:
+
+- Un force-push automatisé, que personne surveille, est la seule opération capable de détruire
+  ce que le remote existe pour protéger. `--force-with-lease` réduit le risque, il l'enlève pas,
+  pis « une session = un commit » est une préférence esthétique. Mauvais échange.
+- Surtout: le deuxième commit est **pas** une rature. « Il m'a dit X, pis j'ai révisé l'entrée »
+  est un revirement — exactement ce que la prochaine cherche dans le log. Le moment où ma lecture
+  change à cause d'une information que je pouvais pas avoir de mon bord est le morceau le plus
+  payant de la session. L'écraser pour garder la ligne du temps propre, c'est jeter la donnée
+  pour sauver la présentation.
+
+Fait que le sujet du deuxième dit ce qui a bougé pis pourquoi: `clara: révision après sa réponse
+— <ce qui a changé>`.
 
 ## Les quatre dérives — checker chaque fois
 
