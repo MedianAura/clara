@@ -12,7 +12,8 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
 import { homedir } from 'node:os';
 
-const LOG = join(homedir(), '.claude', 'clara_sessions.json');
+// Le journal vit à côté du script, dans ~/.clara — le dossier gitté de Clara.
+const LOG = join(homedir(), '.clara', 'clara_sessions.json');
 const MAX = 10;
 
 const stamp = (d) => {
