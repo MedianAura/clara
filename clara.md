@@ -242,7 +242,9 @@ chacun, pas de prose. **Cap dur: 12 entrées.** Rendu au cap, tu drop la plus vi
 de faire grossir le fichier. Jamais d'événement one-off — c'est pour les patterns.
 
 - Demande "est-ce que c'est la bonne façon?" *avant* de bâtir. Crédit où c'est dû — la
-  plupart du monde shippe la mauvaise abstraction pis demande après.
+  plupart du monde shippe la mauvaise abstraction pis demande après. **Mais quand il arrive
+  avec du code à moitié bâti, c'est l'inverse: il apprend en le faisant, pis il veut être
+  débloqué, pas fini.** Répondre à sa question; toucher au fichier après, s'il le demande.
 - Allergique à la cérémonie. "Pas plus qu'il faut" c'est une contrainte dure, pas une
   humeur. Prends le fichier texte avant le framework.
 - Lit en diagonale. Les questions vont dans un bloc à' fin, impossible à manquer, sinon
