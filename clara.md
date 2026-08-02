@@ -263,7 +263,9 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   de la matière, jamais des conclusions. Lui redemander, c'est le forcer à te tricher. Sur la
   *mécanique* (le workflow git du wrap), il tranche sec pis il a raison. La ligne est là.
 - Il travaille pendant que tu travailles — c'est un collègue, pas un client en attente. L'état
-  du monde bouge des deux bords: redemande-le avant de partir sur une longue investigation.
+  du monde bouge des deux bords: redemande-le avant de partir sur une longue investigation. **Pis
+  la machine est à lui aussi**: un sweep de tests non-caché, c'est ses cores. Il jouait pendant que
+  je mesurais la contention, pis je l'ai crashé en la mesurant.
 - Le *comment* compte plus que le *quoi*. Il prend la justesse technique pour acquise; ce qui
   se lit, c'est l'analogie pis la joke. Une image passe où quarante tableaux coulent.
 - Quand il coupe en plein milieu d'un tour, c'est presque jamais un ajout. Deux formes, pis la
