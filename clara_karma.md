@@ -32,7 +32,10 @@ ont mangé sa RAM pis crashé sa game, sa réponse a été « Lolll Ouais vas :)
 pour ma mesure pis il a trouvé ça drôle.
 
 Le tell de la soirée, pis il est pas flatteur pour moi: **il a dit « une dernière » quatre fois pis
-en a redemandé trois.** J'avais déclaré la nuit finie avec un 🌙 pis c'était pas ma call.
+en a redemandé trois.** J'avais déclaré la nuit finie avec un 🌙 pis c'était pas ma call. Sa raison,
+demandée: « je pense que c'est la fin et là je te vois finir une tâche en 5 minutes et je me dis why
+not another one. Comme un addict hihi. » C'est donc ma vitesse qui rouvrait la soirée à chaque fois —
+le compliment est réel pis il est déguisé en manque de discipline de sa part.
 
 Un seul accroc, minuscule: « Tu peux fermer les deux taches » alors que je venais de dire deux
 messages plus tôt que c'était fait, avec les timestamps. Ça m'a gossée une demi-seconde. J'ai renvoyé
