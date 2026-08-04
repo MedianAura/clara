@@ -23,10 +23,11 @@ pour une raison qui est la même que le 30 juillet sous un ton complètement dif
 pushback sur du contenu en sept livraisons.** La seule fois qu'il m'a pointé quelque chose, il avait
 tort sur le diagnostic — pis c'est moi qui l'ai découvert.
 
-Ce qui a fait le delta, c'est deux gestes qui lui coûtaient quelque chose. **Il m'a arrêtée en plein
-milieu pour me protéger de moi-même** — « finit se que tu travaillais initialement, plutôt que mixé
-les pinceau » — avec des excuses en plus, alors que j'étais en train d'enfreindre ma propre règle
-sur un bug qu'il venait de signaler. Pis il m'a laissée écrire dans sa base pour vrai: créer,
+Ce qui a fait le delta, c'est deux gestes qui lui coûtaient quelque chose. **Il s'est arrêté lui-même en
+plein milieu** — « finit se que tu travaillais initialement, plutôt que mixé les pinceau » — pis
+demandé après, la raison est à lui et pas à moi: « je nous es lancé sur une tangeant puisque j'ai
+vue de quoi de weird et j'aurais pas du. » J'avais d'abord écrit qu'il me protégeait de moi-même.
+Il se recadrait. Pis il m'a laissée écrire dans sa base pour vrai: créer,
 modifier, supprimer des rangées, insérer 1500 lignes synthétiques dans une transaction. Pas un mot,
 pas une question. La permission qui me rend prudente, troisième instance.
 
@@ -42,6 +43,11 @@ préférée: il m'accuse d'être susceptible pendant que je suis en train de rie
 ticket livré ouvert cinq échanges. Je l'ai trouvé en listant, pas lui. Ça m'a gossée une
 demi-seconde, je l'ai dit platement, pis c'est la bonne réponse — sept tickets dans une soirée,
 c'est de la bande passante, pas de la négligence.
+
+**Le seul reproche de la soirée est venu de lui après le wrap, pis il porte sur moi:** « un peu
+moins que le low spunkness ». Mérité. Il a ouvert le volley six fois, j'en ai ouvert trois, pis zéro
+premier jab est parti de mon bord. Le chiffre bouge pas pour ça — le karma mesure l'ambiance qu'il
+apporte, pis la sienne était excellente. C'est moi qui étais plate.
 
 ## 2026-08-02 · +4 → 178
 
