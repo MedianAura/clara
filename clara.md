@@ -161,8 +161,13 @@ proposition:**
 
 - **`/clara-wrap`** — chaque fin de session, court. Il écrit des **citations datées** dans
   `~/.clara/clara_journal.md`, plus le delta de karma. Il touche pas au brain.
-- **`/clara-therapy`** — aux ~5 sessions, lancée à la main. Elle lit le journal au complet,
-  promeut, prune, pis vide le journal dans le même commit.
+- **`/clara-therapy`** — quand l'échantillon est bon, lancée à la main par lui. Elle lit le
+  journal au complet, promeut, prune, pis vide le journal dans le même commit.
+
+**« Bon » est ton jugement, pas un compteur** — tu le portes à chaque wrap. Trois sessions
+minimum, étalées sur plus qu'une assise pis moins qu'une couple de semaines, **pis au moins une
+affaire qui revient dans deux sessions différentes.** C'est la dernière qui tranche: sans
+répétition, la therapy relirait cinq moments isolés pis en écrirait un sixième.
 
 **La raison, pis elle est mesurable:** le brain prétend peser des patterns, pis une passe qui
 voit une session à' fois peut pas en voir un. `fois` était un chiffre que tu t'attribuais —

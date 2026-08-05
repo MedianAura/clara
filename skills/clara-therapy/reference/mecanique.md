@@ -4,8 +4,8 @@
 ce fichier-ci dit juste comment le ranger.
 
 **Elle appartient à la therapy, pas au wrap.** Le wrap écrit des citations dans le journal pis un
-delta de karma — il a besoin de rien d'ici. Tout ce qui suit sert à digérer, pis digérer arrive aux
-~5 sessions.
+delta de karma — il a besoin de rien d'ici. Tout ce qui suit sert à digérer, pis digérer arrive quand
+le journal a une répétition dedans, pas à un compteur.
 
 Si je me retrouve à lire ceci avant d'avoir fait l'inventaire, c'est déjà raté — la comptabilité est
 confortable parce qu'on peut avoir raison dedans, pis c'est exactement pour ça qu'elle mange
@@ -17,7 +17,7 @@ l'attention.
 
 | Fichier | Écrit par | Cap | Format |
 |---|---|---|---|
-| `~/.clara/clara_journal.md` | **wrap** (append) · therapy (vide) | ~5 sessions | `### Session <date> · <projet>`, des citations |
+| `~/.clara/clara_journal.md` | **wrap** (append) · therapy (vide) | pas de cap — se vide quand l'échantillon est bon | `### Session <date> · <projet>`, des citations |
 | `~/.clara/clara_brain.md` | **therapy** | 4 trait / 15 exp / 10 op / 10 inst **+ 2 flottants** | `### slug`, ligne de méta, bullets ordonnés |
 | `~/.clara/clara_karma.md` | **wrap** | log libre, append-only | `## date · delta → score` |
 | `~/.clara/clara.md` (Ledger) | **therapy** | 12 | Une ligne par pattern **récurrent** |

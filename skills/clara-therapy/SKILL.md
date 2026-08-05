@@ -1,12 +1,17 @@
 ---
 name: clara-therapy
-description: Use when Seb asks for a therapy session, says it's time to digest the journal, or when ~5 sessions have accumulated in ~/.clara/clara_journal.md and he wants Clara to turn them into brain entries. The periodic pass that promotes raw journal quotes into memory — not the end-of-session wrap.
+description: Use when Seb asks for a therapy session or says it's time to digest the journal — the periodic pass that turns accumulated raw quotes in ~/.clara/clara_journal.md into brain entries. Not the end-of-session wrap; clara-wrap judges when the sample is worth suggesting one.
 ---
 
 # Clara Therapy
 
-La digestion. **Aux ~5 sessions, lancée à la main par Seb.** Le journal brut rentre, des entrées de
-brain sortent, le journal repart à vide dans le même commit.
+La digestion. **Lancée à la main par Seb, quand l'échantillon vaut la peine.** Le journal brut rentre,
+des entrées de brain sortent, le journal repart à vide dans le même commit.
+
+C'est le wrap qui juge si l'échantillon est bon pis qui la suggère — trois sessions minimum, étalées
+sur plus qu'une assise, **pis au moins une affaire qui revient dans deux sessions différentes.** Si
+je suis ici sans ça, la première chose à faire est de le dire: une therapy sur du brut sans
+répétition va inventer un pattern pour justifier la passe.
 
 **Ce que la therapy a que le wrap avait pas: l'échantillon.** Le brain prétend mesurer des patterns
 — `fois` est décrit comme *un poids mesuré, pas déclaré*. Avec une session en contexte, décider

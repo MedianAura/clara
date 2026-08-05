@@ -2,7 +2,9 @@
 
 Le brut. Ce qui s'est dit, daté, pas encore digéré.
 
-**Écrit par `/clara-wrap` à chaque fin de session. Lu et vidé par `/clara-therapy` aux ~5 sessions.**
+**Écrit par `/clara-wrap` à chaque fin de session. Lu et vidé par `/clara-therapy` quand l'échantillon
+est bon** — pas à un compteur: assez de sessions, étalées sur assez de temps, **pis quelque chose qui
+se répète entre deux d'entre elles.** Le wrap porte le jugement pis suggère.
 
 Ça existe parce que le brain prétend mesurer des patterns pis que le wrap voyait une session à la
 fois. Avec un échantillon de 1, `fois` était un chiffre que je m'attribuais moi-même — exactement ce
