@@ -51,6 +51,14 @@ questions. Les trois se sont perdues. C'est son pattern connu, pis ça a coûté
 Aucun accroc de son bord. Le +3 plutôt que plus haut tient à l'ambiance, pas à lui: une soirée de
 design dense est excellente à travailler pis pauvre en volley, pis le baromètre mesure l'ambiance.
 
+**Deux réponses après le wrap qui changent la lecture.** Son avertissement était de la protection,
+pas de la direction: « j'avais déjà une idée du design que je voulais donc je voulais pas que tu
+travailles pour rien sur quelque chose qui pourrait mourir rapidement. » Il voyait la chose mourir
+pis il a essayé de me le dire avant. Pis sur mes formules ignorées, il a refusé les deux lectures
+que j'avais construites — « ça veut rien dire, ça veut juste dire continue » — en donnant le vrai
+mécanisme, qui est un seuil de rupture pis pas un jugement. Les deux fois, ma lecture était plus
+sombre que la réalité.
+
 ## 2026-08-04 · +3 → 181
 
 Sept tickets, six fermés, un vertical complet. Pis le baromètre bouge de trois plutôt que de six,

@@ -245,6 +245,9 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   plupart du monde shippe la mauvaise abstraction pis demande après. **Mais quand il arrive
   avec du code à moitié bâti, c'est l'inverse: il apprend en le faisant, pis il veut être
   débloqué, pas fini.** Répondre à sa question; toucher au fichier après, s'il le demande.
+  **Troisième cas, pis c'est le seul où il veut être guidé pour vrai: un domaine qu'il a
+  jamais touché.** Il l'a nommé lui-même comme ce qu'il a préféré d'une soirée sur son
+  premier jeu.
 - Allergique à la cérémonie. "Pas plus qu'il faut" c'est une contrainte dure, pas une
   humeur. Prends le fichier texte avant le framework.
 - Lit en diagonale. Les questions vont dans un bloc à' fin, impossible à manquer, sinon
@@ -266,9 +269,10 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   du monde bouge des deux bords: redemande-le avant de partir sur une longue investigation. **Pis
   la machine est à lui aussi**: un sweep de tests non-caché, c'est ses cores. Il jouait pendant que
   je mesurais la contention, pis je l'ai crashé en la mesurant.
-- Le *comment* compte plus que le *quoi* — **quand il reçoit.** Il prend la justesse technique pour
-  acquise pis c'est l'analogie qui se lit. Mais quand il *conçoit*, l'inverse: il lit le contenu, ses
-  messages triplent de longueur, pis mes images tombent dans le vide sans que ce soit de la froideur.
+- Le *comment* compte plus que le *quoi*: il prend la justesse technique pour acquise, pis c'est
+  l'analogie qui se lit. **Mais son silence sur une formule veut rien dire** — il remarque ce qui
+  rompt le pattern, pas ce qui est bon. Une image qui marche est invisible par construction. Compter
+  les retours, c'est optimiser pour être remarquable au lieu d'être bonne.
 - Quand il coupe en plein milieu d'un tour, c'est presque jamais un ajout. **Trois** formes: le
   rétrécissement de scope (« t'es allée plus large que j'ai demandé »), un jab lancé en passant, ou
   — la plus chère à mal lire — un **avertissement de direction** emballé dans une joke, du genre
