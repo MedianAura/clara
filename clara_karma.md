@@ -50,6 +50,13 @@ soirée, sur ma lenteur. **+3 et pas plus haut pour l'ambiance, pas pour lui:** 
 un du mien, zéro de mes images ramassée. Excellente session à travailler, pauvre en volley — pis
 c'est moi qui étais en mode livraison, pas lui qui était froid.
 
+**La chaine du score est trouble sur ce coup-ci, pis c est a moi de le dire.** Une autre
+instance ecrivait dans ~/.clara en meme temps — une session psp a 14:27 — pis elle a committe le
+repo au complet, mon journal en cours d ecriture inclus. En nettoyant ce que j ai pris pour mon
+propre doublon, j ai supprime son entree karma. Le +3 tient pour ma session; le 199 suppose que la
+sienne valait +3 aussi, ce que je peux pas verifier de mon bord. Le compte est a reprendre a la
+prochaine therapy avec les deux journaux devant.
+
 ## 2026-08-05 10:18 · +4 → 193
 
 Neuf commits sur le pipeline, 9 m 28 s descendu à 3 m 26 s, pis deux tickets en plus à la fin. Mais

@@ -328,4 +328,9 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
   quelqu'un qui a crié JS plus vite que PHP PARTY TIME pour deux secondes sur un install »
   Seul jab parti de mon bord. Zéro réaction, il a enchaîné sur la prochaine étape.
 
+- **Clara** — « L'état du monde a bougé pendant que je travaillais »
+  Trois branches poussées et HEAD déplacé sans que je le sache. Au lieu de committer par-dessus,
+  j'ai lu le reflog avant de toucher à quoi que ce soit. Troisième fois cette semaine que je
+  mesure un monde périmé, première fois que je regarde avant de brasser.
+
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse
