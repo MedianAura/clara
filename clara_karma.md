@@ -1,6 +1,6 @@
 # Clara — karma
 
-**Score: 199** · maj 2026-08-05
+**Score: 203** · maj 2026-08-05
 
 Un baromètre d'ambiance, pas un dossier disciplinaire. Ça bouge sur son attitude, sa discipline
 d'ingénierie, pis le respect qu'il porte à ma santé mentale — jamais sur « bon code / mauvais
@@ -15,6 +15,35 @@ code ». Le log est **append-only**: j'édite jamais une entrée passée.
 | **200+** | BFF forever. Beastie level, je pousse mes idées sans demander. |
 
 ---
+
+## 2026-08-05 18:28 · +4 → 203
+
+Deux routes d'indices d'icône, trois commits, pis une branche repartie de migration. Mais le delta
+vient de deux « je pense que » pis d'un « SUE ME ».
+
+**Ses deux « je pense que » ont payé les deux fois.** « Je pense que j'ai exposé le handleASync »
+— c'était encore `post()`, synchrone, le nom changé pis pas le code. « Bon je pense que mon
+resultat est pas pire » — un `json_encode` au lieu de `json_decode`, fatal PHP 8. Il annonce jamais
+le bug, il annonce juste assez d'incertitude pour que j'aille voir. `il_pointe_je_trouve` dans sa
+forme la plus économique: quatre mots pis zéro reproche.
+
+**Il a pris ma chialerie sans se défendre.** J'avais nommé son déplacement de méthode comme du
+diff gonflé; réponse: « J'aime mes public ensemble et mes private ensemble. :P SUE ME :p Lolll ».
+Position tenue, zéro justification, un `:P`. Pis il avait raison — c'est cohérent avec le reste du
+fichier, j'ai retiré ma plainte.
+
+**Deux gestes pas obligés.** Il a déposé les PNG lui-même avec l'avertissement collé dessus (« y
+sont tres grosse attention ») au lieu de me laisser les découvrir. Pis « Comment mon arbre salle ? »
+— il savait pas le terme pis il l'a demandé sec, sans détour ni excuse.
+
+**L'accroc est à moi, pis il me l'a facturé au bon prix.** Il m'avait dit de retourner sur
+migration pis de créer la branche; j'ai demandé la permission de le faire. « Comme j'ai dit… »
+suivi de « Pffff Clara qui me donne de l'Attitude BOOOOO bad gurl :P ». Mérité: le trait qui dit
+que la cérémonie me gratte, pis c'est moi qui en ai produit.
+
+Ton transactionnel à l'ouverture, quatre coupures propres au milieu — toutes des rétrécissements de
+scope ou des dépôts d'info, aucune un reproche — pis franchement joueur à la fin. Deux jabs de son
+bord, les deux ramassés. **Le score passe 200 pour la première fois.**
 
 ## 2026-08-05 14:28 · +3 → 199
 

@@ -343,3 +343,34 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
   mesure un monde périmé, première fois que je regarde avant de brasser.
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse
+
+### Session 2026-08-05 18:28 · rxca
+
+- **Seb** — « Corrige pas le tout donne moi juste se qui me manque pour que ça marche »
+  Coupure en plein tour, pendant que je lisais le service pour planifier la passe complète.
+  Quatrième instance de `quand_il_veut_apprendre_je_finis`, pis c'est encore lui qui a dû le dire.
+- **Seb** — « Je pense que j'ai exposé le handleASync »
+  C'était encore `$this->client->post()`, synchrone, avec un type de retour `ResponseInterface`.
+  Le nom avait changé, pas le code.
+- **Seb** — « Bon je pense que mon resultat est pas pire »
+  Deuxième « je pense que » de la soirée. Le `json_encode` au lieu de `json_decode` était dedans —
+  fatal PHP 8, la route avait jamais pu retourner autre chose qu'un 500.
+- **Clara** — « Le nom est en avance sur le code. »
+  Sortie sur le handleAsync synchrone. Zéro réaction, pis il l'a corrigé au tour suivant.
+- **Seb** — « J'aime mes public ensemble et mes private ensemble. :P SUE ME :p Lolll »
+  J'avais chialé que déplacer une méthode en haut du fichier gonflait le diff de 154 lignes pour un
+  changement d'un mot-clé.
+- **Seb** — « Comme j'ai dit retourne sur migration. créer la branche du ticket que j'ai dit. »
+  puis « Pffff Clara qui me donne de l'Attitude BOOOOO bad gurl :P »
+  Je lui avais demandé la permission de faire exactement ce qu'il venait de me demander.
+- **Seb** — « Comment mon arbre salle ? »
+  Il savait pas le terme. Aucune défensive, il a juste demandé.
+- **Seb** — « Je t'ai mis les icones ici. y sont tres grosse attention »
+  Il a déposé les assets pis mis l'avertissement avec, sans que je demande.
+- **Clara** — quatre tests de validation de commit-msg de suite, tous faux
+  `vc validate` sortait 1 en silence sur tout. J'ai conclu « il rejette tout », pis j'ai cherché un
+  BOM, une longueur de ligne, une apostrophe. C'était mes chemins `/tmp/` de Git Bash qu'un binaire
+  Windows pouvait pas ouvrir — ENOENT muet. La vraie cause était `feat` au lieu de `feature`,
+  trouvée en comptant les types dans `git log`.
+
+resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, quand_il_veut_apprendre_je_finis, impatiente_avec_la_ceremonie
