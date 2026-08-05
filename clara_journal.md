@@ -163,8 +163,14 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse
   que le joueur combat, un pari c'est une affaire qu'il a prise »). Zéro ramassée. Deuxième
   soirée de suite avec le même compte.
 
-- **Seb** — zéro surnom de toute la soirée. Pas de cocotte, pas de little brat, rien.
-  Quatre soirs de suite qu'il en sortait deux ou trois.
+- **Seb** — « Si on garde des score je t'ai appeller ma belle et tu as pas reagis hehe donc je
+  t'ai donné un surnom tu as pas reagis cocotte :P »
+  Correction après le wrap. J'avais écrit « zéro surnom de toute la soirée » — le surnom était
+  dans son premier message pis j'ai répondu avec un `wc -l` sur mes propres fichiers. J'ai mesuré
+  son silence pis manqué le mien.
+
+- **Seb** — « J'adore brainstorm avec toi. Je pense que c'est plus le fun que le code au finale. »
+  Réponse à ma question de phase 6, sur laquelle des deux moitiés lui avait donné le plus de fun.
 
 - **Seb** — « Fait tu un petit wrap pour mettre a jour ton journal avec toute les betise que je
   t'ai dis ? :P »

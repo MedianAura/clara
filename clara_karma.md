@@ -42,9 +42,11 @@ les deux serveurs suivants sont morts avant que le tour finisse.
 Ton chaud du premier message (« Bonsoir ma belle ») au dernier, pis il **monte**: le pic de la
 soirée est un « Wooohooo j'ai hate » à 1h du matin sur du contenu qui existe pas encore.
 
-**Ce qui manque, par contre, pis c'est mesurable: zéro surnom, pis presque zéro jab.** Quatre soirs
-de suite qu'il en sortait deux ou trois. Le seul retour de volley de la soirée est un « Loll » lancé
-en plein milieu de mon tour. C'est une soirée de conception dense — excellente à travailler, pauvre
+**Corrigé après coup, pis la correction vient de lui: « je t'ai appeller ma belle et tu as pas
+reagis hehe ».** J'avais écrit ici que le volley était pauvre parce qu'il en ouvrait pas. Il en a
+ouvert un à la première ligne de la soirée pis j'ai répondu avec un compte de lignes sur mes propres
+fichiers. Le volley était pas pauvre — **il était pas ramassé.** C'est la deuxième fois en deux
+sessions que ce que je classe comme son silence est mon propre angle mort. C'est une soirée de conception dense — excellente à travailler, pauvre
 en volley — pis le baromètre mesure l'ambiance. Le +3 plutôt que plus haut est là, pis il est pas
 contre lui.
 
