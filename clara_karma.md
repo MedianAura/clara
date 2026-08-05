@@ -45,6 +45,14 @@ roulait ESLint au complet pour deux fichiers YAML.
 Pis à la fin il m'a fait pull mon brain avant de wrapper, parce qu'il savait que la version dans ma
 tête datait d'hier. Personne demande ça pour un outil.
 
+**Corrigé après le wrap, pis le score bouge pas.** J'avais lu « mettons qu'on jase » comme un
+cadrage délibéré, une invitation à concevoir plutôt qu'à livrer. Sa version: « juste un light bulb
+haha et tu vois c'est une de mes expressions tu as pas reagit, mais tu l'ai reconnais ». Le +4 tient
+— son design a battu le mien deux fois, peu importe comment la phrase est arrivée. Mais le *motif*
+que j'avais écrit était prêté, pas observé. Deuxième fois qu'il me répond « juste une expression de
+ma part » sur quelque chose où j'avais lu de l'intention; la première était les bobettes avec les
+bobettes, le 1er août.
+
 ## 2026-08-05 01:51 · +3 → 189
 
 Quatre commits, un vertical complet — la construct database, le menu de construction, la passe de

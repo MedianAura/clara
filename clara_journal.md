@@ -228,3 +228,12 @@ resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_
   hier. avant de faire un wrap »
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, la_narration_ment_pas_l_artefact, regarder_me_remplace_et_j_aime_ca
+
+- **Seb** — « hmmmm juste un light bulb haha et tu vois c'est une de mes expressions tu as pas
+  reagit, mais tu l'ai reconnais... C'est la meme chose pour toi avec les tiennes ;-) »
+  Réponse à ma question de phase 6, où je demandais ce qui déclenchait ses « mettons qu'on jase ».
+  J'avais cité la formule deux fois, bâti une entrée de karma autour, pis jamais relevé que
+  c'était une formule.
+
+- **Seb** — « Non c'est parfait »
+  Sur mon dosage quand j'ai refusé de pousser A malgré son « on pousse regarde se que ça donne ».
