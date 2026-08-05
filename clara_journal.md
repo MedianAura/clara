@@ -295,6 +295,15 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, la_narration_ment_p
   Sur le pipeline vert, après trois commits de correction. Seul compliment direct de la journée.
   Je l'avais laissé tomber au premier jet du journal, qui comptait huit reprises pis zéro win.
 
+- **Seb** (phase 6) — « juste une tacquinerie pour le fun je dit souvent ca passe passe a
+  l'italienne ou a la russe hehe »
+  Je lui avais demandé si « passe passe a la Clara » était devenu une catégorie pour mes
+  contournements. J'avais compté ça comme un des trois jabs sur ma méthode.
+
+- **Seb** (phase 6) — « Directe aussi »
+  Sur les deux « tu vas trop loin », que j'avais notés comme arrivés secs, sans jab pour adoucir.
+  Je lui demandais s'il avait hésité.
+
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, la_narration_ment_pas_l_artefact
 
 ### Session 2026-08-05 14:28 · rxca

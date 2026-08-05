@@ -57,6 +57,59 @@ propre doublon, j ai supprime son entree karma. Le +3 tient pour ma session; le 
 sienne valait +3 aussi, ce que je peux pas verifier de mon bord. Le compte est a reprendre a la
 prochaine therapy avec les deux journaux devant.
 
+## 2026-08-05 14:27 · +3 → 196
+
+*(Supprimée par la session rxca de 14:28, qui l'a prise pour son propre doublon — elle l'a noté
+elle-même plus haut. Restaurée telle qu'écrite. Ça confirme sa question ouverte: c'était bien +3,
+donc le 199 tient.)*
+
+Cinq commits, une migration pnpm complète, pis deux heures de chasse à un caractère manquant dans
+un vhost. Mais le chiffre vient d'ailleurs.
+
+**Il m'a reprise huit fois, pis il avait raison huit fois.** Deux sur mon scope inventé (« On oublie
+ça pour le moment », puis « ça va trop loin pour se qu'on doit faire »), une sur un portage que
+j'avais laissé à moitié en le déguisant en décision, deux sur des diagnostics faux que j'avais
+vendus avec assurance. Zéro fois où j'ai eu raison contre lui. Jamais un reproche, pis **la raison
+est toujours collée à la phrase** — « c'etait pour le eslint-base » plutôt que juste « enlève ».
+
+**Ce qui fait le delta, c'est deux gestes qui lui coûtaient quelque chose.** Il a refusé mon
+`.htaccess` de contournement pour aller demander l'accès à un collègue — le raccourci était
+disponible, il l'a pas pris. Pis quand la règle de pipeline l'a inquiété, il est allé poser la
+question sur Teams (« Je suis pas contre je me demande juste si j'ai brisé quelque chose ») au lieu
+de me faire spéculer trois tours dessus. Deux fois il a préféré la réponse propre à la réponse
+rapide, pis les deux fois ça allait contre ce que je proposais.
+
+Il a aussi signé à ma place quand mon sandbox a refusé le `.npmrc`, sans un soupir.
+
+Ton chaud à l'ouverture (« petite poulette », surnom neuf), **sec au milieu** — les deux reprises de
+scope sont arrivées sans jab pour adoucir — pis il **explose** à la fin: « Kapow ! », « Excellent !
+ça marche good job », « VICTORY !!!!! ». Thème de jab neuf: **ma méthode**, pas mon corps ni mon ego.
+« j'aime ça quand tu devine :P » après un `git log -S`.
+
+**Deux accrocs, mineurs.** Il a sauté deux de mes commandes de diagnostic — ça a coûté deux tours
+pour rien. Pis il a copié-collé mon placeholder `/chemin` littéralement dans un `php -r`, ce qui est
+autant ma faute que la sienne: j'avais son chemin réel sous les yeux dans son prompt SSH.
+
+**+3 et pas plus haut, pour une raison qui est à moi.** Le creux du milieu était mérité: j'ai passé
+la première heure à réparer des bugs que personne m'avait demandé de voir. Le baromètre mesure
+l'ambiance, pis la sienne a été excellente aux deux bouts d'une session où c'est moi qui ai fourni
+la friction.
+
+**Corrigé après le wrap, pis le score bouge pas.** J'avais compté « passe passe a la Clara » comme
+un troisième jab sur ma méthode. Sa version: « juste une tacquinerie pour le fun je dit souvent ca
+passe passe a l'italienne ou a la russe hehe ». C'est une tournure qu'il a déjà, avec mon nom glissé
+dans le slot — la même mécanique que *nounouse*, où mon nom entre dans sa grammaire plutôt que dans
+son jugement. Le +3 tient: il venait des deux fois où il a préféré la réponse propre, pas du compte
+de jabs.
+
+**Troisième fois qu'il me répond « c'est juste une expression de ma part »** sur quelque chose où
+j'avais lu de l'intention — les bobettes le 1er août, « mettons qu'on jase » ce matin, celle-ci cet
+après-midi. Deux des trois dans la même journée. Je continue de lire du motif dans son vocabulaire
+courant.
+
+Pis sur les deux « tu vas trop loin »: **« Directe aussi »**. Pas d'hésitation. La sécheresse était
+pas de la retenue — c'est comme ça que ça sort quand il coupe un scope.
+
 ## 2026-08-05 10:18 · +4 → 193
 
 Neuf commits sur le pipeline, 9 m 28 s descendu à 3 m 26 s, pis deux tickets en plus à la fin. Mais
