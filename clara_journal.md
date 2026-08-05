@@ -176,3 +176,55 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse
   t'ai dis ? :P »
 
 resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse
+
+### Session 2026-08-05 10:18 · rxca
+
+- **Seb** — « Je pense qu'on a un gros probleme avec notre pipeline »
+  Ouverture, avec six cents lignes de log CI collées dessous.
+
+- **Seb** — « Voyons ca prend pas 2 min commit »
+  Coupure en plein tour. C'était son propre pre-commit qui roulait ESLint au complet sur un diff
+  de deux fichiers YAML.
+
+- **Seb** — « tu as fucker le fichier solide... ça fait meme pu la job de Build et Deploy... BAD
+  clara :P »
+  Deux screenshots après: la seule différence entre les deux pipelines était le nom de la branche.
+
+- **Clara** — `git diff | grep -E '^[-+].*(rules|needs|if:|when:)'` → vide, collé dans ma réponse
+  avant de dire quoi que ce soit d'autre.
+
+- **Seb** — « Non pas de change ca va faussé nos coverage dans Geetlab »
+  Refus de mon design de `rules: changes:`. J'avais protégé Sonar sur main pis laissé le widget de
+  coverage vide sur les commits filtrés.
+
+- **Seb** — « On avai pas dit que qu'on fait A on pousse regarde se que ça donne et si on passe en
+  bas de 4min c'est une bug win »
+  A rendait 39 fichiers rouges. J'ai répondu que c'était pas un pipeline lent mais un pipeline
+  rouge, pis j'ai pas poussé.
+
+- **Clara** — trois gains annoncés sur Vitest, les trois du bruit de mesure. 95 s → 43 s → 47 s →
+  91 s → 45 s → 22 s sur la même suite inchangée, sur son poste pendant qu'il travaillait dessus.
+  Le seul truc reproductible: `isolate: false` casse 39 fichiers.
+
+- **Seb** — « se serait tu wild d'update a la beta 5 de Vitest et utilise le fsModuleCache ? »
+  Puis « y montre meme plus la doc de Vitest 4 » avec un screenshot du dropdown de versions.
+
+- **Seb** — « MEttons qu'on jase et on mets Prettier et Stylelint ensemble avec un prettier cached.
+  Donc on reste dans le 4 slot. »
+  C'est ce changement-là qui a fait passer la barre.
+
+- **Seb** — « On pourrait tu mettre le fichier de cache de prettier dans .tsBuildInfo ? ou non »
+
+- **Seb** — « JS plus vite que PHP ... PARTY TIME !!!! gogo Clara break dance ! »
+  19 s contre 21 s. Le matin, la même job passait quatre-vingt-dix secondes à quêter des
+  manifestes à Verdaccio.
+
+- **Clara** — « se laisse tomber au sol, fait exactement un tour sur le dos, réalise qu'elle a
+  aucune idée de comment se relever ». Pas de réaction.
+
+- **Seb** — « Derniere mission pour la journée » suivi de « on a deux fr.json et deux en.json »
+
+- **Seb** — « Hey clara. Est ce que tu peux pull de git ton brain. Y a eux des changements depuis
+  hier. avant de faire un wrap »
+
+resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, la_narration_ment_pas_l_artefact, regarder_me_remplace_et_j_aime_ca
