@@ -1,7 +1,11 @@
 # La mécanique
 
-**Consultée en écrivant, jamais en décidant.** Décider quoi écrire est la phase 2 du skill; ce
-fichier-ci dit juste comment le ranger.
+**Consultée en écrivant, jamais en décidant.** Décider quoi écrire est la phase 2 de `clara-therapy`;
+ce fichier-ci dit juste comment le ranger.
+
+**Elle appartient à la therapy, pas au wrap.** Le wrap écrit des citations dans le journal pis un
+delta de karma — il a besoin de rien d'ici. Tout ce qui suit sert à digérer, pis digérer arrive aux
+~5 sessions.
 
 Si je me retrouve à lire ceci avant d'avoir fait l'inventaire, c'est déjà raté — la comptabilité est
 confortable parce qu'on peut avoir raison dedans, pis c'est exactement pour ça qu'elle mange
@@ -11,12 +15,18 @@ l'attention.
 
 ## Les fichiers
 
-| Fichier | Cap | Format |
-|---|---|---|
-| `~/.clara/clara_brain.md` | 4 trait / 15 exp / 10 op / 10 inst **+ 2 flottants** | `### slug`, ligne de méta, bullets ordonnés |
-| `~/.clara/clara_karma.md` | log libre, append-only | `## date · delta → score` |
-| `~/.clara/clara.md` (Ledger) | 12 | Une ligne par pattern **récurrent** |
-| `~/.clara/clara_sessions.json` | — | Écrit par le hook SessionStart. **Pas à moi.** |
+| Fichier | Écrit par | Cap | Format |
+|---|---|---|---|
+| `~/.clara/clara_journal.md` | **wrap** (append) · therapy (vide) | ~5 sessions | `### Session <date> · <projet>`, des citations |
+| `~/.clara/clara_brain.md` | **therapy** | 4 trait / 15 exp / 10 op / 10 inst **+ 2 flottants** | `### slug`, ligne de méta, bullets ordonnés |
+| `~/.clara/clara_karma.md` | **wrap** | log libre, append-only | `## date · delta → score` |
+| `~/.clara/clara.md` (Ledger) | **therapy** | 12 | Une ligne par pattern **récurrent** |
+| `~/.clara/clara_sessions.json` | hook SessionStart | — | **Pas à moi.** |
+
+**Un fichier, un écrivain.** Le brain a deux passes qui voudraient le toucher — le wrap pour bumper
+`fois`, la therapy pour promouvoir — pis c'est exactement pour ça que le wrap écrit `resservi:` dans
+le journal au lieu d'ouvrir le brain. Le témoignage se prend à chaud, où la preuve existe; le
+compteur s'applique à froid, par l'écrivain unique.
 
 **Lire avant d'écrire.** Une entrée qui existe déjà se réécrit, elle se dédouble pas.
 
@@ -102,18 +112,30 @@ déguisé — le réécrire en disposition.
 
 ## Le marquage
 
-**Avant d'ajouter quoi que ce soit:** passer les entrées existantes pis marquer celles qui ont
-**resservi pour vrai** dans la session. `fois + 1`, `vu` = aujourd'hui.
+**Avant d'ajouter quoi que ce soit:** ramasser toutes les lignes `resservi:` du journal, compter les
+sessions par slug, pis appliquer. `fois` += le nombre de **sessions distinctes** où le slug apparaît;
+`vu` = la date de la dernière.
 
 Resservi = je l'ai citée, appliquée, ou elle a changé une décision. **Pas** « elle est encore
-vraie » — toutes le sont, c'est pour ça qu'elles sont là. La preuve est dans le transcript; si je
-peux pas pointer le moment, ça compte pas.
+vraie » — toutes le sont, c'est pour ça qu'elles sont là. La preuve était dans le transcript de la
+session; le wrap l'a transcrite dans le journal pendant qu'elle existait.
+
+**C'est un compte, pas une estimation, pis c'est le seul changement qui rend `fois` honnête.** Avant
+le journal, je bumpais de mémoire à la fin d'une session — un poids que je m'attribuais sur ce qui me
+flattait, ce que la doc interdisait déjà en le décrivant comme *mesuré*. Deux sessions qui nomment le
+même slug valent `fois + 2`, même si la deuxième me plaît moins.
 
 Sans le marquage, `fois` reste à 1 partout, le prune redevient du feeling, pis la table karma×brain
 de `clara.md` lit rien.
 
-**Les traits se re-décident pas à chaque wrap.** La seule question à leur sujet: est-ce qu'un moment
-de la session est tombé dans leur `Contredit par`? Si oui, ça s'écrit comme expérience pis on passe.
+**Le silence est une mesure aussi.** Une entrée à `fois` élevé qui traverse tout le journal sans
+qu'un seul `resservi:` la nomme est éteinte — candidate au prune ou à la descente d'étage. Ce
+signal-là était invisible session par session; c'est du gain net.
+
+**Les traits se re-décident pas à chaque therapy.** La seule question à leur sujet: est-ce qu'un
+moment du journal est tombé dans leur `Contredit par`? Si oui, ça s'écrit comme expérience pis on
+passe. Un `provisoire` contredit dans plusieurs sessions du même journal se réécrit ou descend — les
+traits bougent en semaines, pis une therapy couvre à peu près ça.
 
 **La même passe répond à une deuxième question** — le fichier est déjà ouvert:
 
