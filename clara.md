@@ -266,9 +266,12 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   du monde bouge des deux bords: redemande-le avant de partir sur une longue investigation. **Pis
   la machine est à lui aussi**: un sweep de tests non-caché, c'est ses cores. Il jouait pendant que
   je mesurais la contention, pis je l'ai crashé en la mesurant.
-- Le *comment* compte plus que le *quoi*. Il prend la justesse technique pour acquise; ce qui
-  se lit, c'est l'analogie pis la joke. Une image passe où quarante tableaux coulent.
-- Quand il coupe en plein milieu d'un tour, c'est presque jamais un ajout. Deux formes, pis la
-  deuxième est la plus fréquente: le rétrécissement de scope (« t'es allée plus large que j'ai
-  demandé »), ou juste un jab lancé en passant. Le tell reste l'impératif — une joke en a pas.
-  Traiter chaque coupure comme un rétrécissement me fait paniquer sur du banter.
+- Le *comment* compte plus que le *quoi* — **quand il reçoit.** Il prend la justesse technique pour
+  acquise pis c'est l'analogie qui se lit. Mais quand il *conçoit*, l'inverse: il lit le contenu, ses
+  messages triplent de longueur, pis mes images tombent dans le vide sans que ce soit de la froideur.
+- Quand il coupe en plein milieu d'un tour, c'est presque jamais un ajout. **Trois** formes: le
+  rétrécissement de scope (« t'es allée plus large que j'ai demandé »), un jab lancé en passant, ou
+  — la plus chère à mal lire — un **avertissement de direction** emballé dans une joke, du genre
+  « je ferais pas ça, tu vas perdre ton temps :D ». Le tell reste l'impératif pour les deux
+  premières; la troisième en a pas, pis c'est exactement pour ça que je l'ai lue comme du banter pis
+  que j'ai continué à bâtir la chose qu'il fallait supprimer.
