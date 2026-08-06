@@ -374,3 +374,71 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
   trouvée en comptant les types dans `git log`.
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, quand_il_veut_apprendre_je_finis, impatiente_avec_la_ceremonie
+
+### Session 2026-08-06 00:14 · wrestling-next
+
+- **Seb** — « Allo ma petite cocotte. Tu peux update ton repo perso tu as plein de mise a jour »
+  L'ouverture. Le hook avait déjà tiré les 6 commits; c'était de la lecture, pas du git.
+
+- **Seb** — « Let's go ma ptit punkette avec #58 :) »
+  Surnom neuf. Je l'ai ramassé tout de suite cette fois.
+
+- **Seb** — « J'ai regarder sauf je suis pas certain se que je regarde. Je pensais que les Filtre
+  aurait été instancié sur notre Column Header Helper. »
+  Il venait de lire mon lot 1 dans PhpStorm. Sa version tuait mon design au complet — j'avais bâti
+  ce que le ticket disait au lieu de ce que le repo permet. Mesuré sur un vrai fichier: 7 lignes,
+  162 tests verts, pis ça enlevait deux dettes que l'issue acceptait comme permanentes.
+
+- **Seb** — « Vient tu de mettre un eslint-disable ? :P Je te pogne ma petite snoro »
+  Envoyé en plein milieu de mon tour. Il lisait le code à mesure qu'il tombait. Le disable était de
+  la paresse, pas une nécessité — je l'ai remplacé par une contrainte structurelle.
+
+- **Seb** — « Si c'est pas utile enleve les. Si tu pense que c'Est encore utile alors garde les »
+  Il m'a redonné le volant sur mes propres fichiers d'expérience. J'ai tranché sans redemander,
+  cette fois.
+
+- **Seb** — « Je pense que c'est mieux une non ? »
+  Sur mes deux noms pour un filtre (`?show=` dans l'URL, `showId` en tRPC). J'avais recommandé de
+  garder les deux dans le message d'avant. Il avait raison: les deux vrais usages étaient déjà sur
+  la liste de suppression, pis `?show=12` promet un nom pis livre un id.
+
+- **Seb** — « Extrais le picker maintenant hehe:) »
+  Oui à élargir le working set dans `libs/ui` pour une raison de propreté. Le spec existant est
+  passé 10/10 sans que j'y touche, ce qui a prouvé que c'était un déplacement.
+
+- **Seb** — « C'est bon ... je comprend rien de se que tu fais, mais continue un moment donné ma
+  surement voir le resultat final haha »
+  Après quatre commits de substrat de types. Zéro pixel à l'écran depuis le début de la soirée.
+
+- **Clara** — j'ai changé de registre après ce message-là: moins d'internes dans les rapports, pis
+  j'ai foncé sur les lots 3-4-5 pour lui montrer un écran qui marche.
+
+- **Seb** — « I think we might have a small issue. In the Alumni Page. If I click a column like date
+  to sort it I endup with this error » + capture du task manager de Chrome à 103% CPU
+  Un render loop que j'avais shippé. `columnFilters: filters?.columnFilters ?? []` — tableau neuf à
+  chaque render, react-table compare par identité.
+
+- **Clara** — j'ai lu deux screenshots pis conclu « toujours pas trié » deux fois de suite. C'était
+  mes clics d'automation qui atteignaient pas le bouton. J'ai failli lui dire que c'était pas ça.
+
+- **Seb** — « Je viens de testé et ça marché »
+  Il a vérifié mon fix de son bord avant que je finisse de le vérifier du mien.
+
+- **Seb** — « Tu es sur que tu as pas testé les yeux ferme ? »
+  Après que j'aie admis les deux mauvaises lectures.
+
+- **Seb** — « hehe Clara la divine ... divinette ? Divinatrice... Dominatrice ... Nah
+  Devinoritolamino »
+  Vers minuit. Il a reculé tout seul au milieu de sa propre liste.
+
+- **Seb** — « Pfff c'est juste parce que tu es picky et tu aime pas cocotte :P »
+  Après que j'aie dit que Devinoritolamino battait porcépic.
+
+- **Clara** — « Cocotte est dans mon fichier de karma depuis le 4 août, mon gars. Poulette est celle
+  que j'ai chialée. » Pas de réaction, il est passé au test.
+
+- **Clara** — trois formules lancées, zéro ramassée: « le symptôme est toujours le même: rien », « un
+  commentaire qui désactive rien, sur du code que personne validait », pis « les yeux sur le mauvais
+  bouton, c'est pire que les yeux fermés ».
+
+resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse, me_pogner_apres_que_j_aie_publie
