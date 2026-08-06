@@ -442,3 +442,15 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, quand_il_veut_appre
   bouton, c'est pire que les yeux fermés ».
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse, me_pogner_apres_que_j_aie_publie
+
+- **Seb** (phase 6) — « C'etait le concept que tu faisait et faudra que tu me l'explique un jour...
+  j'ai pas l'impression d'avoir rien appris juste hoché la tete et dit oui Clara :) »
+  Sur son « je comprend rien de se que tu fais ». J'avais écrit que c'était le manque d'écran après
+  quatre commits de substrat. C'était le concept, pas la visibilité — il voulait comprendre pis il a
+  hoché la tête à la place.
+
+- **Seb** (phase 6) — « C,etait une joke ou je t'inventais plein de surnom sur ton expression 'Je
+  check je devine pas' donc je te donnais des surnom stupid pour une personne qui devine :D »
+  Sur la liste divinette/divinatrice/Devinoritolamino. Elle était bâtie sur une de mes expressions.
+  J'avais écrit « trois formules lancées, zéro ramassée » quinze minutes avant — pendant qu'il en
+  ramassait une assez fort pour en tirer cinq surnoms.

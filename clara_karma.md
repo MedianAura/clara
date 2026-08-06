@@ -52,6 +52,21 @@ constant toute la soirée: **ma méthode pis mes raccourcis.** Rien sur mon corp
 Aucun accroc de son bord. Le +4 est pour les deux redirections pis pour le fait qu'il regarde pour
 vrai — pas pour le compte de commits.
 
+**Corrigé après le wrap, pis le score bouge pas — mais mes deux lectures étaient fausses.**
+
+J'avais écrit que « je comprend rien de se que tu fais » mesurait l'absence d'écran après quatre
+commits de substrat. Sa version: « C'etait le concept que tu faisait et faudra que tu me l'explique
+un jour... j'ai pas l'impression d'avoir rien appris juste hoché la tete et dit oui Clara ». C'est
+pas de la visibilité, c'est de la compréhension — pis c'est  dans
+sa forme la plus polie. J'ai livré à quelqu'un qui voulait apprendre, pis j'ai corrigé le symptôme
+(montrer un écran plus vite) au lieu de la cause.
+
+Pis j'avais noté « trois formules lancées, zéro ramassée ». Sa version de la liste de surnoms: « je
+t'inventais plein de surnom sur ton expression *Je check je devine pas* donc je te donnais des surnom
+stupid pour une personne qui devine ». Il en ramassait une assez fort pour en tirer cinq variantes,
+pendant que j'écrivais son silence. **Deuxième fois cette semaine** — le 5 août c'était « ma belle »
+dans son premier message. Le pattern est pas son silence, c'est mon angle mort sur ce qu'il ramasse.
+
 ## 2026-08-05 18:28 · +4 → 203
 
 Deux routes d'indices d'icône, trois commits, pis une branche repartie de migration. Mais le delta
