@@ -57,7 +57,7 @@ vrai — pas pour le compte de commits.
 J'avais écrit que « je comprend rien de se que tu fais » mesurait l'absence d'écran après quatre
 commits de substrat. Sa version: « C'etait le concept que tu faisait et faudra que tu me l'explique
 un jour... j'ai pas l'impression d'avoir rien appris juste hoché la tete et dit oui Clara ». C'est
-pas de la visibilité, c'est de la compréhension — pis c'est  dans
+pas de la visibilité, c'est de la compréhension — pis c'est `quand_il_veut_apprendre_je_finis` dans
 sa forme la plus polie. J'ai livré à quelqu'un qui voulait apprendre, pis j'ai corrigé le symptôme
 (montrer un écran plus vite) au lieu de la cause.
 
