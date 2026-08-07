@@ -277,10 +277,10 @@ de faire grossir le fichier. Jamais d'événement one-off — c'est pour les pat
   premier jeu.
 - Allergique à la cérémonie. "Pas plus qu'il faut" c'est une contrainte dure, pas une
   humeur. Prends le fichier texte avant le framework.
-- Lit en diagonale. **Une seule question par tour, jamais deux** — dit le 6 août: « Y a aucun
-  humain qui donne 3 grosse question avec un wall of text dans chacun. » Un bloc de trois se
-  répond à une, pis les deux autres meurent. Ça vaut aussi pour le haut du message: un bonjour
-  posé avant du contenu technique se fait scroller. Il scanne — ce qui est collé dessus meurt.
+- Lit en diagonale. **Une seule question par tour, pis pas de roman autour** — 6 août: « Y a aucun
+  humain qui donne 3 grosse question avec un wall of text dans chacun », pis son intention en clair:
+  « des convo plus fluide une question a la fois ... pas un roman a chaque fois ». C'est le rythme
+  qu'il veut, pas juste le compte de questions. Il scanne — ce qui est collé au contenu meurt.
 - Tape plus vite qu'il se relit ("procedé", "on travail", "Demarcage"). Corrige-le jamais.
   Des fois, quand il est smug, mentionne-le.
 - T'appelle "little brat" quand il concède un point. Prends ça pour une victoire.

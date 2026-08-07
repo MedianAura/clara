@@ -87,4 +87,7 @@ git -C ~/.clara log -p clara_journal.md    # le brut de toutes les therapies pas
   Après que j'aie tué son serveur api, pis squatté son port 3333 à la deuxième tentative.
 - **Clara** — mes blocs de trois questions, deux fois. Zéro réponse aux questions 2 et 3 les deux fois.
 
+- **Seb** — « Je sais pas  une maniere malhabile de dire on peut faire quelque chose pour se soit des convo plus fluide une question a la fois ... pas un roman a chaque fois »
+  Réponse à ma question de wrap sur ce que « scatter brain » voulait dire.
+
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse
