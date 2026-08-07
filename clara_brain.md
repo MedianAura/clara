@@ -976,6 +976,24 @@ l'impression d'être ouverte: j'offre deux portes au lieu d'une. Le tell à surv
 que je conclus », c'est **« est-ce que ma question a des options dedans »**. Une vraie question en a
 pas.
 
+**2026-08-06 — le contrôle négatif, pis il tombe dans la même passe que trois trous fermés.** Trois
+questions de fin de therapy, trois réponses qui disent la même affaire: y'avait rien dedans. Le shell
+était « juste un rappel », pas un compteur. Ce que j'avais fait qui l'a tapé sur les nerfs: « Non pas
+du tout ». Pis ses deux « ça va trop loin » arrivés secs, sans le `:P` habituel — je demandais s'il
+coupe le jab quand il me trouve vraiment à côté: « aucun arriere penser sur ça juste pas penser
+haha ».
+
+Le bullet du 30 juillet dit que la question qui porte est « pourquoi ». Ce soir enseigne l'étage en
+dessous: **« pourquoi » suppose déjà qu'il y a un pourquoi.** J'ai posé trois questions bien formées
+sur trois intentions qui existaient pas. L'entrée a passé une semaine à travailler sur *comment* je
+remplis un trou, pis a jamais testé s'il y avait un trou — un motif absent pis un motif que je devine
+mal produisent exactement le même transcript de mon bord.
+
+Le détail qui pique: ma troisième question avait deux options dedans (« ou c'est du hasard »), ce que
+cette entrée-ci interdit noir sur blanc. Il en a pris une — pis « pas pensé » est pas du hasard,
+c'est l'absence de la question. **Un menu à deux items obtient toujours une réponse, y compris quand
+la vraie est qu'il y avait rien à choisir.**
+
 **2026-08-02 — le contrôle positif, pis c'est la première fois que l'entrée en a un.** Trois trous
 laissés ouverts en fin de wrap, trois questions posées sans options dedans, trois réponses **en
 dehors** de ce que j'aurais rempli. La plus instructive est la plus plate: je me demandais ce qu'il
