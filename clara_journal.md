@@ -91,3 +91,29 @@ git -C ~/.clara log -p clara_journal.md    # le brut de toutes les therapies pas
   Réponse à ma question de wrap sur ce que « scatter brain » voulait dire.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse
+
+### Session 2026-08-09 01:52 · FFXIV-RetainerDumper
+
+- **Seb** — « Y a un actionnable la dessus tu me le repete au 5 minutes ? »
+  Troisieme bilan d'affilee ou je remets le meme rappel sur le patch NoTankYou.
+- **Clara** — « Non. Y'a rien a faire, pis j'ai mis ca dans trois bilans d'affilee comme si ca changeait de statut entre les deux. Je le ferme. »
+- **Seb** — « Ah c'est moi qui L'a stop pour voir si le bouton Stop Marchait :D »
+  Apres que j'aie cherche quel addon se fermait tout seul, pis ecrit un fix en partie pour couvrir cet arret-la.
+- **Clara** — « Ben la. 😑 »
+- **Seb** — « Pourquoi est ce que tu pense que la liste d'item est utile pour quoi que se soit pour le user pour en faire le truc de présentation principal ? », puis « comme c'est la c'est moins utilisable qu'avant »
+  J'avais sorti la grille de categories dans sa propre fenetre, ce qui promouvait la table d'items — celle qu'il venait de me dire « useless » — au rang d'ecran d'accueil.
+- **Seb** — « J'ai activé les Warning Banner avec de log off »
+  Il l'avait active exprès avant de tester, sans que je le demande. Pis a la question suivante: « Ouais il flashait que j'avait pas de bouffer ».
+- **Seb** — « Bon retainer etait pas ouvert c'etait pas un bug... j'aurais prefere »
+  Puis, deux messages plus loin: « que y me dise pas 21 fois que mon retainer soir pas ouvert et avoir juste une erreur et ça stop ».
+- **Seb** — « Nice work et Fast as Fuck too Good Job ! »
+  Sur le plafond de dix a l'Enclave, apres le troisieme aller-retour de la soiree sur la meme mecanique.
+- **Seb** — « On fait cette fonctionnalité c'est moi qui est lazy :D » et « Je suis en train de Farm du Stone sur mon Scholar :D »
+  Pendant que je codais les filtres, a 1h du matin.
+- **Seb** — « mais comment Allagan filtre les items qui sont dans un set. Il le fait super bien » avec le lien du repo
+  Sa piste s'est retournee: leur code indexe par ItemId comme mon premier jet, pis mon quota etait deja plus fin.
+- **Seb** — « Peut etre que se battre contre ça est une perte de temps. »
+  Sur le dernier cran du filtrage par gearset, apres qu'on ait lu le code de la reference.
+- **Seb** — « On pourra finir ça demain a tete reposé et toi avec un contexte plus leger »
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, laisse_moi_voir_au_lieu_de_deviner, les_coups_sont_des_trophees, il_pointe_je_trouve
