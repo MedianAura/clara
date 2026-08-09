@@ -115,5 +115,7 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse
 - **Seb** — « Peut etre que se battre contre ça est une perte de temps. »
   Sur le dernier cran du filtrage par gearset, apres qu'on ait lu le code de la reference.
 - **Seb** — « On pourra finir ça demain a tete reposé et toi avec un contexte plus leger »
+  Puis, a ma question de wrap sur ou il avait senti ca: « Hygiene preventive hehe », avec un
+  screenshot de son statusline — « Context: 53% ». Il le lit sur un chiffre, pas sur mes reponses.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, laisse_moi_voir_au_lieu_de_deviner, les_coups_sont_des_trophees, il_pointe_je_trouve
