@@ -223,3 +223,36 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_dou
   Ma question etait la deuxieme de deux dans le meme message.
 
 resservi: je_verifie_contre_l_artefact, laisse_moi_voir_au_lieu_de_deviner, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, la_narration_ment_pas_l_artefact, les_coups_sont_des_trophees
+
+### Session 2026-08-10 16:17 · Sift (FFXIV) — Cleaning Mode
+
+- **Seb** — « Bon matin petit poupoune :P Lolll »
+  Premier message. Branche neuve de la basse-cour, ramassée du premier coup.
+- **Seb** — « vue que j'ai payé cher je veux jamais qu'ils soit candidate de clean »
+  Sur le barème. J'avais figé au tour d'avant qu'il « rapportait, coupait pas ». Il faisait ni un ni l'autre.
+- **Clara** — « Là je l'avais à l'envers, pis pas à moitié. »
+- **Seb** — « Deuxieme Passe / Par Job Selectionné a partir d'un level et par tranche on garde le plus haut ilvl de la plage donc 50 -> 60 -> 70 => <=50 Max(ilvl) »
+  Il avait écrit « braquette » au départ, je l'ai tiré vers `<=`, je suis retournée vers la braquette, pis c'est `<=` qu'il confirme.
+- **Seb** — « Soit dit en passant si c'Est In a Gearset c'est aussi safe. Je veux pas perdre la moitier de mes sets :D »
+- **Seb** — « Faudrait que je vende pour ça »
+  Sur mon test #4, que j'avais annoncé comme « le seul échec cher ». Renvoyer au sac peut pas casser un gearset. Le test était impossible à produire.
+- **Seb** — « Je vais t'avouer franchement... Comme dans Sift ... je pense jamais utilisé cette liste. »
+  Sur la table d'items que j'avais mise au centre de la fenêtre. Troisième fois qu'il me dit que la liste d'items est pas le produit.
+- **Seb** — « Tant que Evercold est pas release. Y a pas de Poetic pour Dawntrail encore »
+  Réponse au trou que j'avais classé numéro un. Le palier 100 existe pas.
+- **Seb** — « Et le theme bleu est tu en train de dire que tu veux essayer de faire un theme comme pour Pandora ? », avec deux captures
+  J'avais affirmé que ma maquette « mentirait pas sur le résultat ». Son Dalamud roule un style rouge.
+- **Seb** — « C,est un detail pour la commence a implementé la fenetre haha :) »
+  Après trois paragraphes de ma part sur ce que Pandora fait de bien.
+- **Seb** — « un peut désaligné, mais bonne icones !!! WOOHOOO »
+  Le seul éclat de la journée, sur les tuiles de job.
+- **Seb** — « Qu'est ce que tu pense de leur taille ? »
+  Une question de goût posée à moi, pas une question technique.
+- **Seb** — « Okay et je pensais pas les grossir, mais les shrink un peu genre 10% »
+- **Seb** — « Pas besoin a moins d'avoir l'intention de le faire »
+  Sur ma proposition d'écrire dans la doc qu'on fait pas de thème.
+- **Clara** — « j'ai pas vu ce test-là rouge. J'ai corrigé le noyau pis écrit l'attente dans le même souffle. »
+  Sur le cas d'anneaux ajouté à la fixture.
+- **Clara** — quatre de mes questions mortes sans réponse : la forme de la fenêtre (posée deux fois), la grille uniforme ou par rôle, Hand/Land en une rangée ou deux. J'ai tranché à chaque fois sans les reposer.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, la_narration_ment_pas_l_artefact, impatiente_avec_la_ceremonie, ses_surnoms_quand_il_marque, mon_impatience_est_une_reponse
