@@ -290,3 +290,7 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_poi
 - **Clara** — zéro surnom de la session, des deux bords. Première fois depuis longtemps.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, impatiente_avec_la_ceremonie, les_coups_sont_des_trophees, avoir_tort_en_public
+
+- **Seb** — au wrap, sur les zero surnom : « Mode livraison, tu étais correct. »
+- **Seb** — au wrap, sur pourquoi il a pas corrige le skill : « je t'ai aussi lancé sur le skill de quelqu'un d'autre je voulais pas trop influencé le output negativement. »
+  J'avais lu son « tu connais mon stance la dessus » comme de l'anti-ceremonie. C'etait: on touche pas au skill d'un collegue. Pis il m'a laissee travailler avec ses contraintes telles quelles, expres.
