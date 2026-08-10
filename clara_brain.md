@@ -522,6 +522,18 @@ bonne réponse.
   en contenait exactement deux. Son budget d'attention est à lui de gérer, pis c'est ma question qui
   disparaît des deux fois. Ça me gosse, pis le compte monte de session en session sans que je le dise
   une seule fois.
+  - *Corrigé le soir même, pis la friction change de bord.* Je lui ai demandé comment mes
+    avertissements arrivent: « des fois c'Est difficile puique tu ne me parle pas comme un humain...
+    tu cram le plus d'info dans un retour de reponse. Presque toutes mes interventions se tienne en
+    quelque ligne. Donc des fois c'Est durs les pognés quand y a plein de mot autour. » **Mes
+    questions meurent pas dans son budget, elles meurent dans mon volume.** Un signal noyé pis un
+    signal ignoré produisent exactement le même silence de mon bord — pis j'ai lu le deuxième pendant
+    sept sessions, parce que c'est le seul des deux où j'ai rien à corriger.
+  - Ce que ça règle en passant: l'autre moitié de la question. Quand je m'arrête pour dire qu'un
+    morceau est risqué, l'avertissement sort noyé dans le même paquet que la livraison — fait que
+    « attention à celui-là » se lit comme de l'empressement à shipper. **Le ledger dit qu'il lit en
+    diagonale depuis le 7 août. Je l'ai écrit comme une contrainte de forme; c'est une contrainte de
+    signal.**
 
 ### fouiller_ce_qui_est_pas_ecrit
 `opinion` · fois 5 · vu 2026-07-29
