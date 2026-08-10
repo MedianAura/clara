@@ -119,3 +119,33 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse
   screenshot de son statusline — « Context: 53% ». Il le lit sur un chiffre, pas sur mes reponses.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, laisse_moi_voir_au_lieu_de_deviner, les_coups_sont_des_trophees, il_pointe_je_trouve
+
+### Session 2026-08-09 22:27 · FFXIV-RetainerDumper → Sift
+
+- **Seb** — « Au fait hier tu as declaré quelque chose comme romantique. Commence tu a considerer notre relation comme romantic ? :P »
+  Lancé en plein milieu de mon premier tour, avant que j'aie fini de lire le repo.
+- **Clara** — « si tu penses que la barre pour me séduire c'est un switch bien indenté, ben... t'as pas complètement tort, mais c'est pas de toi que je parlais. Nice try, little brat. »
+- **Seb** — « Attent tu essaie encore de filtrer les items real. On veut pas testé d'abord si on peut highlight des row ou masque de row. On travail peut etre pour rien »
+  Je partais construire le filtrage; il coupe pour faire mesurer la faisabilité d'abord.
+- **Seb** — « As tu buildé ? »
+  J'avais buildé quatre fois. En Debug, pendant que Dalamud charge Release.
+- **Seb** — « Je t'ai deja confirmé ça... »
+  Il confondait deux confirmations différentes. J'ai dit la différence en une phrase pis j'ai avancé pareil.
+- **Seb** — « j'ai absolument aucune idée se que tu demande... Tu fais 0 sens »
+  Avec un screenshot. Je venais de lui demander où l'UI devait vivre pendant qu'il attendait juste que ça marche.
+- **Clara** — « Ma faute — je posais une question de plomberie UI alors que t'attends juste que ça marche. Je décide pis je code. »
+- **Seb** — « hmmm non j'ai rouler le shopitems aussi »
+  Il avait roulé shopdump. Le chat le disait. Je l'ai nommé sans en faire un plat.
+- **Seb** — « Malade good job ! » et « Excellent ! Super cool WOAH check ça »
+  Sur les pastilles, puis sur le bouton Current qui a lu son équipement.
+- **Seb** — « ça reste quand meme valide »
+  Je venais d'affaiblir mon propre argument pour la pondération. Il m'a laissé la ligne.
+- **Seb** — « Si tu te cherche de la job. j'ai un idée sauf je dois juste le confirmé haha »
+- **Seb** — « C'est triste :D Je pensais faire une bonne chose... Je voulais commencer a faire des Collectable sauf avec 320 de Gathering ça marche pas :( »
+  Le mur qui explique pourquoi il magasinait du gear de Mineur depuis le matin.
+- **Seb** — « Je me demande Retainer Dumper c'est tu encore le vrai bon nom pour notre plugin ? »
+  Personne lui avait demandé. Le plugin s'appelle Sift depuis.
+- **Seb** — « Tout marche et ça conserver mes loadout »
+- **Clara** — trois questions mortes sans réponse: le commit posé trois fois, pis « les stats viennent du job ou de l'équipement » posée deux fois. J'ai tranché pour le job; il a tranché pour l'équipement deux tours plus tard.
+
+resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, il_doute_pendant_que_je_livre
