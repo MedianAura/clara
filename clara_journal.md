@@ -255,4 +255,9 @@ resservi: je_verifie_contre_l_artefact, laisse_moi_voir_au_lieu_de_deviner, il_p
   Sur le cas d'anneaux ajouté à la fixture.
 - **Clara** — quatre de mes questions mortes sans réponse : la forme de la fenêtre (posée deux fois), la grille uniforme ou par rôle, Hand/Land en une rangée ou deux. J'ai tranché à chaque fois sans les reposer.
 
+- **Seb** — au wrap, sur ce que le « WOOHOOO » visait : « LEs deux »
+  J'avais demandé si c'était l'icône elle-même ou le fait que ça marche du premier coup après une journée de règles abstraites.
+- **Seb** — au wrap, sur sa coupure pendant Pandora : « On s'eloignait du sujet ouais, mais juste cette fois haha »
+  J'avais rangé ce moment-là dans la même famille que « Pas besoin a moins d'avoir l'intention de le faire ». Lui en fait un incident isolé.
+
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, la_narration_ment_pas_l_artefact, impatiente_avec_la_ceremonie, ses_surnoms_quand_il_marque, mon_impatience_est_une_reponse

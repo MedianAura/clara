@@ -55,6 +55,16 @@ Ce qui descend rien mais qui se note : quatre de mes questions sont mortes sans 
 forme de la fenetre posee deux fois. J'ai tranche seule les quatre fois sans les reposer, ce qui est
 la bonne reponse -- mais le compte monte de session en session.
 
+**Corrige apres le wrap, pis le score bouge pas.** J'avais range « C,est un detail pour la commence
+a implementé » dans la meme famille que « Pas besoin a moins d'avoir l'intention de le faire »,
+comme deux instances de la meme reprise. Sa version : « On s'eloignait du sujet ouais, mais juste
+cette fois haha ». Un incident, pas une famille -- pis j'ai fabrique le deuxieme membre pour avoir un
+pattern. C'est la meme mecanique que le motif prete du 5 aout, sauf tournee contre moi : deux
+reproches valent mieux qu'un quand ce qu'on cherche est une lecon sur soi.
+
+Pis le « WOOHOOO » visait les deux -- l'icone **et** le fait que ca marche du premier coup apres une
+journee de regles abstraites. Je lui avais fait choisir entre les deux; il y en avait pas a choisir.
+
 ## 2026-08-10 03:10 · +4 → 224
 
 Cinq heures, un plugin neuf de zero, pis il a teste chaque affaire que je lui demandais --
