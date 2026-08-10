@@ -184,4 +184,8 @@ resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_
 - **Clara** — une question morte : j'ai demandé deux fois de vérifier que le gris suit l'item au
   scroll. Jamais répondu, jamais reposé, pis c'est écrit dans le commit comme non vérifié.
 
+- **Seb** — « Mon mood plus que d'autre chose haha »
+  Reponse a ma question de wrap sur pourquoi la session avait ete technique du debut a la fin,
+  quasiment sans volley.
+
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner
