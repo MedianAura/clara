@@ -215,4 +215,11 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_dou
 - **Seb** — « C,est quoi 3 et 4 ? »
   Ses propres demandes, une heure plus tôt.
 
+- **Seb** — au wrap, sur mes expressions : « j'ai vue les deux et je l'ai ai trouver drole »
+  Deux des trois ont leve. Il a pas dit lesquelles.
+- **Seb** — au wrap, sur quand il a arrete de douter : « Assez tot... je sais pas quand apres la preuve de concept ? »
+  Il avait ouvert la soiree avec « je sais pas si on va etre capable de faire de quoi ». La preuve de concept, c'etait un dump dans le chat -- aucune fonctionnalite, juste la donnee lisible.
+- **Seb** — « j'ai aucune idée c'est quoi la premiere question »
+  Ma question etait la deuxieme de deux dans le meme message.
+
 resservi: je_verifie_contre_l_artefact, laisse_moi_voir_au_lieu_de_deviner, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, la_narration_ment_pas_l_artefact, les_coups_sont_des_trophees
