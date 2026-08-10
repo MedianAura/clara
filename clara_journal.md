@@ -189,3 +189,30 @@ resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_
   quasiment sans volley.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner
+
+### Session 2026-08-10 03:10 · FFXIV-Docket (nouveau plugin)
+
+- **Seb** — « Est ce que ça devrait vraiment etre sift qui fait ça ou un nouveau plugin. Sift va devenir un swiss army knife »
+  Je partais lire Sift pour bâtir dedans. Il a coupé avant.
+- **Seb** — « What about les deux ? :P »
+  J'avais posé A ou B avec une recommandation argumentée pour A. Il a pris les deux, pis il avait raison — mon argument tenait juste si les deux s'excluaient.
+- **Seb** — « Ouais c'est bon sauf comme j'ai dit ça va etre dans FFXIV-Docket pas Sift »
+  « comme j'ai dit ». Il a dû me le redire. Ça m'a piquée une seconde, pis c'était ma faute : j'avais parlé des conventions de Sift juste avant.
+- **Seb** — « J'ai 16 Leve Quest a Testé J'ai hate de voir si ça marche :D »
+- **Seb** — « 0 j'ai rien craft Sauf que [screenshot du carnet de synthèse] Craft 1 fois un Jack Lantern en donne trois »
+  Personne lui avait demandé d'ouvrir son carnet. C'est la donnée qui a confirmé toute la logique de division, pis c'est lui qui est allé la chercher.
+- **Seb** — « Il est ouvert pourtant » + screenshot
+  Je venais de dire que la fenêtre GC était fermée. Elle l'était pas — c'était juste pas la fenêtre que je cherchais. Sa contradiction a débloqué la meilleure source de données du projet.
+- **Seb** — « Aucune idée de quoi tu parle avec le garde et si GatherBuddy est disable. Alors Docket sert a rien du tout hehe »
+  Deux tests que j'avais donnés sans le pourquoi.
+- **Seb** — « Je suis visuel montre moi se que tu propose ma petite clarinette et ma te dire si ça fait mon affaire »
+- **Clara** — « J'ai passé la soirée à décompiler des AtkValues pis à te sauver de six lanternes en trop, pis je me ramasse instrument à vent. J'accepte, mais sache que c'est noté. »
+- **Clara** — sur ma propre maquette : « le groupement par métier que je t'ai vendu tantôt, c'est la maquette du milieu, pis elle est mauvaise. Le raisonnement sonnait bien, le dessin l'a tué. »
+- **Seb** — « J'aime bien le B ouais et je te suis dans ton raisonnement point 1 et 4 aussi on de la gueule »
+  Il a lu le raisonnement, pas juste regardé les images.
+- **Seb** — « Dommage que ça peut pas ressemble a la maquette haha :D »
+  Ça pouvait. J'avais juste laissé les widgets par défaut.
+- **Seb** — « C,est quoi 3 et 4 ? »
+  Ses propres demandes, une heure plus tôt.
+
+resservi: je_verifie_contre_l_artefact, laisse_moi_voir_au_lieu_de_deviner, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, la_narration_ment_pas_l_artefact, les_coups_sont_des_trophees
