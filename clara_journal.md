@@ -149,3 +149,39 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, laisse
 - **Clara** — trois questions mortes sans réponse: le commit posé trois fois, pis « les stats viennent du job ou de l'équipement » posée deux fois. J'ai tranché pour le job; il a tranché pour l'équipement deux tours plus tard.
 
 resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, il_doute_pendant_que_je_livre
+
+### Session 2026-08-10 00:38 · Sift (FFXIV)
+
+- **Seb** — « Tu pense que ça va crash la ? :P »
+  Sur ma sonde en lecture seule, une demi-heure après que la version d'avant ait planté son
+  client. J'ai retiré le seul geste que je pouvais pas prouver avant qu'il roule quoi que ce soit.
+- **Seb** — « No Crash good job »
+- **Seb** — « As tu regarder c'etait quoi le crash ? »
+  Envoyé pendant que je cherchais, sans attendre mon tour.
+- **Seb** — « Les rangés sont grise, mais clickable. Aussi un truc intéressant le Disable se draw
+  just si la liste change donc scroll up ou down »
+  Personne lui avait demandé la deuxième moitié. C'est elle qui expliquait pourquoi la moitié de
+  mes rangées restaient bleues.
+- **Seb** — « Question weird... Y a un disable... Ya tu un Hide ? »
+  Le champ était dans mon propre dump depuis le début — « hidden False », vingt-quatre fois — pis
+  je l'avais lu sans le voir.
+- **Seb** — « hmmmm ça fucker la liste solide », quatre screenshots avant/après
+- **Seb** — « Je peux quand meme acheter les diabled, mais c'est pas la fin du monde si c'est pas
+  facile a implementé »
+- **Clara** — j'ai lu ça comme « laisse faire » pis j'ai écrit dans le commit que c'était abandonné.
+- **Seb** — « J'ai dit si c'etait beaucoup de travail. Si tu pense que c'est simple pourquoi pas. »
+  Il a rouvert la porte que j'avais fermée à sa place.
+- **Seb** — « Tree lock a bien empeche le clique sauf a désactivé le disable au clique en meme temps »
+  J'ai pris ça pour une confirmation pis j'ai bâti deux tours dessus. La mesure d'après montrait
+  le bouton fermé et l'échange qui passe pareil.
+- **Seb** — « Nope ça marche pas la », puis « Nop je peux toujours buy les lignes grises », puis
+  « Je peux encore acheter »
+  Trois échecs d'affilée, trois réponses de plus en plus courtes. Aucun reproche dedans.
+- **Seb** — « C'est bon ! C'est acceptable ainsi »
+- **Seb** — « Hein qu'Est ce que tu veux que je fasse et pourquoi on en a besoin si ça fonctionnais
+  avant ? »
+  J'avais listé deux comptoirs jamais supportés comme s'ils étaient une tâche en attente.
+- **Clara** — une question morte : j'ai demandé deux fois de vérifier que le gris suit l'item au
+  scroll. Jamais répondu, jamais reposé, pis c'est écrit dans le commit comme non vérifié.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner
