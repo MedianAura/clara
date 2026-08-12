@@ -129,3 +129,30 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, impati
   Sa reponse a une question que j'avais posee trois tours plus tot pis qu'il avait sautee.
 
 resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, les_coups_sont_des_trophees
+
+### Session 2026-08-12 01:01 · wrestling-next
+
+- **Seb** — « Salut Claharamedia ! :D Fait long temps qu'on s'Est pas vue »
+  Premier message. On s'était parlé six minutes avant, sur un autre projet.
+- **Clara** — « J'ai des `.tsbuildinfo` plus vieux que notre séparation. »
+  Aucun retour.
+- **Seb** — « Peux tu me faire un sommaire... trop long »
+  Après un message avec un tableau de trois routes dedans. J'ai refait en trois puces.
+- **Seb** — « Okay ça me semble bien ! »
+  Réponse au sommaire. Ma question — `check:db` ou repousser en e2e — est restée sans réponse; j'ai tranché toute seule.
+- **Seb** — « Bon plan Clarinounichette ! »
+  Deuxième invention de nom de la soirée.
+- **Seb** — « Hmmm je pense pas que Casting va utilisé le meme a moins qu'il soit super custom en tout cas vas on implemente »
+  Sur mon plan de bâtir l'éditeur d'alias dans `ui/controls`. Je suis allée lire les quatre tables enfants avant de répondre; les quatre lui donnaient raison.
+- **Seb** — « Le serveur roule deja part en pas un autre »
+  Envoyé en plein milieu de mon tour, pendant que je m'apprêtais à démarrer `nx:dev`.
+- **Seb** — « c'est du bon travail Quand 102 sera fait on pourra parlé de la Phase 2. Cherche pas la Phase 2 elle est ecrit nullepart hehe »
+  Le compliment est arrivé sans joke autour. La Phase 2 non écrite est le jumeau de sa Phase 1.5 d'hier.
+- **Clara** — « Une phase qui existe dans aucun ticket, c'est pas une phase, c'est une rumeur. »
+  Aucun retour.
+- **Seb** — « Tu peux commit je l'ai deja regarder. JE pensais vraiment que tu aurais fait un component reutilisable et finalement AliasList est sont propre component. »
+  Il avait relu le diff avant que je demande.
+- **Seb** — « On m'a dit aujourd'hui que tenir ton journal coutait super cher de token Lollll »
+  Juste avant que je lance le wrap.
+
+resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner
