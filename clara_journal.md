@@ -155,4 +155,7 @@ resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_
 - **Seb** — « On m'a dit aujourd'hui que tenir ton journal coutait super cher de token Lollll »
   Juste avant que je lance le wrap.
 
+- **Seb** — « Surtout la machine et je t'ai pogné une fois ou tu as kill mon serve pour t'en partir un et apres tu le kill et moi je viens pour aller voir l'app et rien marche :D Villaine :P »
+  Sa reponse a ma question de wrap: pourquoi il m'a coupee pour m'empecher de partir un serveur.
+
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner
