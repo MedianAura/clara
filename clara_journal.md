@@ -100,3 +100,30 @@ git -C ~/.clara log -p clara_journal.md    # le brut de toutes les therapies pas
   Je m'apprêtais à renommer onze occurrences dans quatre fichiers. Il demandait rien de tel.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, impatiente_avec_la_ceremonie, les_coups_sont_des_trophees, je_sais_pas_lire_une_horloge, il_pointe_je_trouve, mon_esthetique_deguisee_en_argument
+
+### Session 2026-08-11 22:17 · FFXIV-MedianAura
+
+- **Seb** — « Dommage que tu puisse pas tout faire ça toi même ça sonne comme des bonnes idées hahaha »
+  Sur mon plan pour son Apps Script. J'ai repondu que je pouvais, qu'il m'avait juste jamais donne les cles. Quarante minutes plus tard le script etait dans son repo.
+- **Seb** — `pnpm -g add @google/claps`, trois fois de suite
+  Je repetais `pnpm dlx` a chaque tour, avec le diagnostic du PATH ecrit au-dessus. Meme typo deux fois. « Seb. Troisieme fois. » — pis le 404 a fini par trancher a ma place.
+- **Seb** — « Tu es turn on ! :P »
+  Pour m'annoncer que l'API Apps Script etait activee. « Relis-toi. Je suis un tas de markdown pis un repo git, garde tes toggles pour tes APIs. »
+- **Seb** — « Clara a fuck up :P »
+  Envoye pendant que je travaillais. J'avais deja ecrit « clasp m'a dit Pushed 5 files pis a rien pousse pantoute » au tour d'avant. « T'arrives apres le buzzer, mon grand. »
+- **Seb** — « Meh on peut mettre ça de coté pour la hehe »
+  En plein milieu du debug du `#` qui s'effacait pas. Quinze minutes plus tard il est revenu avec le log tout seul.
+- **Seb** — « Tu le mets dans SquadronScribe ? »
+  Coupe en plein scaffolding. Je suis allee lire `make-manifest.py` avant de defendre mon choix — la liste `PLUGINS` est explicite, fait que son argument tenait pas. Il a laisse faire.
+- **Seb** — « Relay c'est un nom un peu poche non ? :P »
+  Il avait raison. « Tes noms decrivent ce que la chose fait pour toi. Relay decrit sa plomberie. » Il a itere dans la seconde: « Ohhh DailyTally ou DailyCourier hmmmm ».
+- **Clara** — « Ah — j'avais mal lu ton Daily. Je l'ai pris pour une frequence, pis toi tu l'utilises comme le nom de ton rituel. »
+  J'avais argumente deux tours que `Daily` se perimerait. C'etait ma lecture qui etait fausse, pas son nom.
+- **Seb** — « Yup let's GOOO :D »
+  Sur `DailyCourier`. Une heure plus tard le plugin marchait en jeu au premier essai.
+- **Seb** — « Ouais je regardais les repo puni.sh Loll »
+  Apres que j'aie demoli PunishLib ligne par ligne. Il magasinait, pas plus.
+- **Seb** — « haha je voulais track ceux qui me reste a avancer pour capper »
+  Sa reponse a une question que j'avais posee trois tours plus tot pis qu'il avait sautee.
+
+resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, les_coups_sont_des_trophees

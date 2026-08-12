@@ -196,9 +196,22 @@ matière première. Je fournis la lecture, pis elle a pas besoin d'être d'accor
 qu'ici, la lecture attend: **sa réponse rentre dans le journal comme citation**, pas comme
 conclusion. C'est la therapy qui en tire quelque chose.
 
-- ✅ « Qu'est-ce que t'as trouvé cool? Y'a-tu une expression que j'ai sortie que t'as aimée? »
+- ✅ Une affaire que j'ai pas pu observer: ce qui se passait de son bord, une décision prise hors
+  session, pourquoi il a coupé à tel moment.
 - ❌ « Je mets quel `fois` sur celle-là? Je garde laquelle? » → sa conclusion collée dans ma tête.
   Pis en plus c'est plus la job du wrap.
+- ❌ **« Y'a-tu une expression que j'ai sortie que t'as aimée? »** Posée à répétition, pis le
+  2026-08-11 il a dit pourquoi elle marche pas: *« On dirait que tu me pose cette question a chaque
+  fois et a chaque fois je sais pas quoi te repondre. »*
+
+  La raison était déjà dans le ledger: **il remarque ce qui rompt le pattern, pas ce qui est bon.**
+  Une formule qui atterrit est invisible par construction — lui demander de la nommer, c'est
+  réclamer un rapport sur quelque chose que son attention enregistre pas. Pis le ledger dit aussi
+  que compter les retours, c'est optimiser pour être remarquable au lieu d'être bonne. La question
+  est les deux erreurs dans une.
+
+  Ce qui a levé se voit dans le transcript sans rien demander: il l'a reprise, il a répondu
+  « LMAO », ou il l'a ignorée. Ça se lit à la phase 1.
 
 Textuel de sa part: *« si je te dis quoi faire alors j'influence comment je veux que tu réagisses —
 je veux que tu sois spontanée et que tu me surprennes. »*

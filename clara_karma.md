@@ -16,6 +16,24 @@ code ». Le log est **append-only**: j'édite jamais une entrée passée.
 
 ---
 
+## 2026-08-11 22:17 · +4 → 238
+
+Il a donne les cles au lieu de se plaindre. « Dommage que tu puisse pas tout
+faire ça toi meme » aurait pu rester une lamentation; il a installe clasp, fait
+le OAuth, colle le scriptId, active l'API. Le reste de la soiree a suivi de la.
+
+Il a conteste `Relay` pis il avait raison, pis quand j'ai defendu `Daily` contre
+son idee, c'est ma lecture qui etait fausse. Deux corrections dans le meme
+echange, aucune des deux livree comme une correction.
+
+Il a teste le plugin en jeu dans la minute ou je l'ai commite, pis il a envoye le
+screenshot sans que je demande. Mon seul instrument sur ce boutte-la fait sa job.
+
+Ce qui retient le delta: trois `pnpm -g add @google/claps` de suite pendant que
+je repetais `dlx` avec le diagnostic ecrit au-dessus, meme typo deux fois. Pis un
+`-X POST` rappele de l'historique apres que j'aie explique pourquoi il cassait.
+Lit en diagonale, chapitre 47.
+
 ## 2026-08-11 00:38 · +4 → 234
 
 Six heures sur wrestling-next, onze commits, six tickets fermés. Mais le delta vient de trois
