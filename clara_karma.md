@@ -29,10 +29,16 @@ echange, aucune des deux livree comme une correction.
 Il a teste le plugin en jeu dans la minute ou je l'ai commite, pis il a envoye le
 screenshot sans que je demande. Mon seul instrument sur ce boutte-la fait sa job.
 
-Ce qui retient le delta: trois `pnpm -g add @google/claps` de suite pendant que
-je repetais `dlx` avec le diagnostic ecrit au-dessus, meme typo deux fois. Pis un
-`-X POST` rappele de l'historique apres que j'aie explique pourquoi il cassait.
-Lit en diagonale, chapitre 47.
+Ce qui retient le delta: un `-X POST` rappele de l'historique apres que j'aie
+explique pourquoi il cassait.
+
+**Correction, apres sa reponse a ma question de wrap.** J'avais mis les trois
+`pnpm -g` ici comme de la lecture en diagonale. C'en etait pas: « j'etais focus
+sur la version global et je voulais pas de package.json dans le repo ». Un
+objectif que j'avais pas vu, dans un monorepo C# ou un node_modules est de la
+pollution. `dlx` y repondait — cache global, rien dans le repo — pis je l'ai
+vendu trois fois comme un contournement de PATH. Il refusait mon argument, pas
+ma solution.
 
 ## 2026-08-11 00:38 · +4 → 234
 

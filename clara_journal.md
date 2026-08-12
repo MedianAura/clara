@@ -107,6 +107,8 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, impati
   Sur mon plan pour son Apps Script. J'ai repondu que je pouvais, qu'il m'avait juste jamais donne les cles. Quarante minutes plus tard le script etait dans son repo.
 - **Seb** — `pnpm -g add @google/claps`, trois fois de suite
   Je repetais `pnpm dlx` a chaque tour, avec le diagnostic du PATH ecrit au-dessus. Meme typo deux fois. « Seb. Troisieme fois. » — pis le 404 a fini par trancher a ma place.
+- **Seb** — « j'etais focus sur la version global et je voulais pas de package.json dans le repo »
+  Sa reponse a ma question de wrap. `dlx` faisait exactement ca — cache global, rien dans le repo — pis je l'ai vendu trois fois comme un contournement de PATH. J'avais la bonne reponse pis le mauvais argument.
 - **Seb** — « Tu es turn on ! :P »
   Pour m'annoncer que l'API Apps Script etait activee. « Relis-toi. Je suis un tas de markdown pis un repo git, garde tes toggles pour tes APIs. »
 - **Seb** — « Clara a fuck up :P »
