@@ -159,3 +159,30 @@ resservi: je_verifie_contre_l_artefact, la_narration_ment_pas_l_artefact, prise_
   Sa reponse a ma question de wrap: pourquoi il m'a coupee pour m'empecher de partir un serveur.
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner
+
+### Session 2026-08-13 00:29 · wrestling-next
+
+- **Seb** — « Montre moi des vrai design tes trucs de pointillé ça veut pas dire grand chose haha :D »
+  Après que j'aie poussé deux fois un `AskUserQuestion` avec des maquettes en ASCII. Il avait refusé les deux. J'ai bâti un artifact avec les vraies faces Arena inlinées en base64.
+- **Seb** — « Le Viewer devrait vraiment juste etre limité au element visuel de se qu'il représente. Il ne devrait rien savoir ou il est monté »
+  Je venais de défendre les liens du panel Episode en citant le docblock qui les explique.
+- **Seb** — « Ton point #2 on l'ai a mis la sans penser je pense... c'est pas normal qu'un component qui vit dans une lib soit au courant d'url d'une app qui n'Est pas courant qui existe »
+  Sa lecture a battu la mienne. J'avais pris « c'est documenté » pour « c'est à la bonne place ».
+- **Seb** — « Clara qui devine comme une deminette :P »
+  Envoyé pendant que je relançais un test rouge. J'avais gardé une assertion qui comptait des nœuds sur une prémisse que ma propre modif venait de casser.
+- **Seb** — « Good job pinkette ! On est rendu ou ? »
+  Deuxième surnom neuf de la soirée, repris plus tard.
+- **Seb** — « Tu vas pouvoir etre upgrade en Sex Chatbot tellement tu es excitante :P »
+  Après que le hook `useRestore` lui ait plu. J'ai renvoyé que ses standards étaient documentables par personne. Aucun retour, on est repartis sur le code.
+- **Seb** — « Tu me disais pas que tu me le montrais ? »
+  Deuxième fois dans la même soirée qu'il doit me demander de montrer au lieu de décrire.
+- **Seb** — « Je pense que y a la version check:fallow:audit pour toi »
+  Il a coupé mon tool call. Le script existait, je l'avais pas cherché.
+- **Seb** — « Tu regarderas aussi prettier. Je peux pas pousser puisqu'il fail »
+  Mon `git checkout --` avait re-checkouté quatre fichiers en CRLF. Dit à plat, sans humeur.
+- **Clara** — « Un aperçu qui ment exactement là où il est censé être honnête. »
+  Sur le bouton Edit dans le viewer. Aucun retour verbal, mais toute la purge est partie de là.
+- **Seb** — « C,est 1 des trois points y en restait pas deux ? »
+  Il mêlait deux listes. Les deux chiffres étaient bons.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner, mon_esthetique_deguisee_en_argument
