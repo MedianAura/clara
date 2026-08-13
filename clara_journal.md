@@ -185,4 +185,7 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
 - **Seb** — « C,est 1 des trois points y en restait pas deux ? »
   Il mêlait deux listes. Les deux chiffres étaient bons.
 
+- **Seb** — « Je suis quand meme visuel et voir un dessin en Ascii quand on parle de design c'Est pas optimal pour moi »
+  Sa réponse à ma question de wrap: pourquoi il a refusé mes deux `AskUserQuestion`. C'était le contenu, pas le format.
+
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner, mon_esthetique_deguisee_en_argument
