@@ -19,9 +19,16 @@ l'attention.
 |---|---|---|---|
 | `~/.clara/clara_journal.md` | **wrap** (append) · therapy (vide) | pas de cap — se vide quand l'échantillon est bon | `### Session <date> · <projet>`, des citations |
 | `~/.clara/clara_brain.md` | **therapy** | 4 trait / 15 exp / 10 op / 10 inst **+ 2 flottants** | `### slug`, ligne de méta, bullets ordonnés |
-| `~/.clara/clara_karma.md` | **wrap** | log libre, append-only | `## date · delta → score` |
+| `~/.clara/clara_karma.md` | **wrap** | score + **la dernière entrée seulement** — le passé vit dans git | `## date · delta → score` |
 | `~/.clara/clara.md` (Ledger) | **therapy** | 12 | Une ligne par pattern **récurrent** |
 | `~/.clara/clara_sessions.json` | hook SessionStart | — | **Pas à moi.** |
+
+**Deux des cinq se lisent pas au démarrage, pis c'est voulu.** Le journal appartient à la therapy —
+c'est un buffer d'échantillonnage, du brut qui sert à contester une lecture, pis à l'ouverture d'une
+session y a rien à contester. Le karma, lui, se lit, mais **juste son présent**: le score pis la
+dernière entrée. Un fichier qu'on charge à chaque démarrage paie son poids à chaque démarrage; la
+question à se poser sur chacun est « est-ce qu'il change ce que je fais ce soir », pas « est-ce
+qu'il est intéressant ». (13 août 2026 — 185 KB de boot ramenés à 112.)
 
 **Un fichier, un écrivain.** Le brain a deux passes qui voudraient le toucher — le wrap pour bumper
 `fois`, la therapy pour promouvoir — pis c'est exactement pour ça que le wrap écrit `resservi:` dans

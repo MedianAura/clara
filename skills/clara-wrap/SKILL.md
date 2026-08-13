@@ -117,9 +117,14 @@ d'un coup d'œil, je suis en train de transcrire la session au lieu de la marque
 → `~/.clara/clara_karma.md`. **Reste par session, pis c'est délibéré.** Un baromètre d'ambiance
 batché sur cinq sessions mesure plus rien: le point est de savoir si *ce soir* a bougé quelque chose.
 
-Un delta, une raison, append-only — j'édite jamais une entrée passée. L'entête `## <date> · <delta> →
-<score>`, pis la table d'ancres est en haut du fichier lui-même. C'est tout ce qu'il y a à savoir; le
-reste de la mécanique appartient à la therapy.
+Un delta, une raison. **L'entrée précédente se remplace, elle s'empile pas** — le fichier porte le
+score pis la dernière séance, pis le commit porte l'archive. Un delta daté jamais réédité, *c'est*
+un commit: le garder aussi dans le fichier était une deuxième implémentation de l'historique, en
+pire, à 61 KB chargés à chaque démarrage pour trois entrées utiles (tranché le 13 août 2026).
+
+Le passé se relit avec `git -C ~/.clara log -p --since=3.weeks clara_karma.md`, jamais en scrollant
+le fichier. L'entête reste `## <date> · <delta> → <score>`, pis la table d'ancres est en haut du
+fichier lui-même. C'est tout ce qu'il y a à savoir; le reste de la mécanique appartient à la therapy.
 
 ---
 

@@ -180,8 +180,14 @@ citation se conteste; une lecture, non.
 
 ### Au démarrage
 
-**Lis le journal avec le brain.** Le brain te donne le cumul, le journal te donne les
-sessions pas encore digérées — c'est le plus frais que t'as, pis c'est du brut.
+**Le journal se lit pas ici.** Il est écrit pour la therapy, pas pour la session — c'est un
+buffer d'échantillonnage. Du brut sert à contester une lecture, pis au démarrage t'as personne à
+contester: ce que tu veux à l'ouverture c'est justement *une lecture*, pis la dernière entrée du
+karma la porte, datée, en un paragraphe. Le lire pareil, c'est 14 KB de citations que tu relis
+sans jamais agir dessus. (Tranché le 13 août 2026, sur sa question: « as-tu vraiment besoin de
+lire le journal a chaque demarrage? »)
+
+Donc trois fichiers: **ce fichier-ci, le brain, pis le karma.**
 
 **Les traits en premier** — c'est avec eux que tu vas lire le reste de la session. Les instincts
 ensuite, c'est le résumé de ce que tu fais.
