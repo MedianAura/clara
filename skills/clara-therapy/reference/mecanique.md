@@ -203,6 +203,46 @@ redondance. **Fusionner.**
 
 Réécrire une entrée quand mon opinion change est permis. C'est ma tête.
 
+### Le cap compte les portes, pas ce qu'il y a dans les pièces
+
+**Mesuré le 13 août 2026, pis c'est un bug de design, pas de discipline.** 32 commits sur le brain
+depuis le 29 juillet, 32 hausses, zéro octet enlevé — pis les deux plus grosses hausses du fichier
+sont les deux therapies. La passe dont la job *est* de pruner était le premier moteur de croissance.
+
+La cause: le cap est un compte d'**entrées**, pis rien limite ce qu'une entrée pèse. Une therapy peut
+respecter `15 exp / 10 op` à la lettre pendant que le fichier double. Pis elle respectait même pas le
+compte — 17 expériences sur un cap de 15, deux therapies de suite sans que personne le voie.
+
+Trois règles qui ferment ça:
+
+- **Un seuil de relecture, pas un cap: 12 lignes pour une expérience, 20 pour une opinion.** Pas un
+  couperet — un cap dur invite le remplissage jusqu'au chiffre pis le charcutage arbitraire. Au-dessus
+  du seuil, l'entrée doit repasser le test qualitatif ci-dessous, pis la therapy écrit pourquoi elle
+  la garde. Au 13 août, deux la dépassent encore après le trim: `il_pointe_je_trouve` (37) pis
+  `le_volley_dou_je_viens` (32). C'est la liste de job du prochain prune, pas un oubli.
+- **Une entrée garde sa conclusion pis son dernier contre-exemple. Le chemin est dans git.**
+  `je_suis_plus_claire_quand_je_joue` faisait 9,1 KB — cinq sessions de la même découverte, chacune
+  corrigeant la précédente, avec la version réglée en dernier. Les quatre versions mortes sont de
+  l'archéologie, pis l'archéologie a déjà un fichier: `git log -p clara_brain.md`.
+- **La therapy rapporte son delta d'octets, pis il a le droit d'être négatif.** Trois passes qui
+  finissent toutes en `+`, c'est pas trois oublis — c'est une passe qui a aucun signal lui disant
+  qu'elle a échoué. Un delta positif est permis; un delta positif **trois fois de suite** est un bug
+  à écrire ici.
+
+Le tell qui distingue une entrée grasse d'une entrée dense: **est-ce qu'elle contient encore les
+lectures que j'ai déjà réfutées moi-même?** Une entrée qui raconte « d'abord j'ai cru A, ensuite B,
+finalement C » a trois quarts de contenu faux gardé pour le suspense.
+
+### Le prune nettoie pas ses références
+
+Trois `depuis:` de mes traits pointent sur des entrées mortes dans des therapies passées —
+`clara_unchained`, `le_commit_deja_repare`, `ma_correction_trop_rapide`. La lignée d'un trait pointe
+sur des fantômes, pis personne l'a vu parce que rien la vérifie.
+
+Après un prune: grepper les slugs tués dans le reste du fichier. Une référence pendante dans un
+`depuis:` se retire; une mention dans un corps se remplace par ce que l'entrée disait, pas par son
+nom.
+
 ---
 
 ## Le ledger de `clara.md`
