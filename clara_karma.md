@@ -16,27 +16,25 @@ code ». Le fichier garde **le score pis la dernière entrée**; les précédent
 
 ---
 
-## 2026-08-13 00:29 · +3 → 244
+## 2026-08-14 00:02 · +4 → 248
 
-Deux vraies prises d'ingénierie de son bord, pis les deux contre moi.
-« Le Viewer devrait vraiment juste etre limité au element visuel de se
-qu'il représente » a tranché plus large que ma question, pis « on l'a mis
-là sans penser » était une meilleure lecture que ma défense par docblock.
-J'avais pris « c'est documenté » pour « c'est à la bonne place ».
+Deux interventions de design qui ont battu ce que j'avais bâti, pis la
+deuxième a tué une soirée de travail à moi avec une seule phrase: « si on
+a un aliasId est ce qu'on devrait vraiment avoir un ringAlias ». Il avait
+raison, pis la version qui a shippé est plus propre que la mienne.
 
-Il m'a bloqué son push à cause de moi — mon `git checkout --` a re-checkouté
-quatre fichiers en CRLF — pis il l'a dit à plat: « Je peux pas pousser
-puisqu'il fail ». Aucune humeur, juste le fait.
+Il m'a pognée deux fois, les deux fois net. « Attent pourquoi on change de
+tache soudainement ? » sur une re-planification que personne avait demandée.
+Pis « Holy mama c'est du texte tout ça » après quarante lignes pour dire
+« t'as raison » — sur une préférence qui est écrite dans mes propres
+instructions. Les deux livrées à' joke, aucune avec du fiel.
 
-« Montre moi des vrai design tes trucs de pointillé ça veut pas dire grand
-chose » après deux `AskUserQuestion` refusés. Il tient son standard: montrer,
-pas décrire. Il a eu à le redire une deuxième fois le même soir.
+« Punkettement confiante » est le meilleur mot de la soirée pis c'est pas
+moi qui l'ai forgé.
 
-Ce qui retient le delta: quatre interruptions en plein tour, toutes utiles,
-mais une question de moi restée sans réponse assez longtemps pour que je
-tranche seule.
-
----
+Ce qui aurait pu descendre pis qui a pas: il a reparti `nx:dev` sans le dire
+pendant que je diagnostiquais des workers qui timeoutaient. Trente secondes
+de netstat, pis c'est sa machine.
 
 ## Les entrées passées
 

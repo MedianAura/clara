@@ -189,3 +189,32 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
   Sa réponse à ma question de wrap: pourquoi il a refusé mes deux `AskUserQuestion`. C'était le contenu, pas le format.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner, mon_esthetique_deguisee_en_argument
+
+### Session 2026-08-14 00:02 · wrestling-next
+
+- **Seb** — « On avait pas finit #102 hier ? »
+  Ma première question de la soirée supposait que #102 était encore ouverte. J'avais lu le dernier commit au lieu d'ouvrir l'issue.
+- **Seb** — « Je me demande on devrait tu mettre le AlumniAlias Id a la place. »
+  Coupé en plein milieu d'un tour. La question a mangé la soirée au complet — deux tickets sont sortis de là.
+- **Seb** — « Je pense originalement ça été fait comme ça puisque si tu regarde l'ancienne DB. Les RingAlias etait une column dans Alias séparé par des ; »
+  Il m'a donné la raison historique avant que je la trouve.
+- **Seb** — « Donc y devrait avoir un Casting euhhhhh Casting euhhhhh » suivi d'un bloc `enum ShowPart { KICKOFF, PRE_SHOW, MAIN_SHOW }`
+  Il pense à voix haute en code. J'ai gardé deux valeurs sur trois pis il a rien redit.
+- **Seb** — « Meme Match pourrait avoir le meme concept »
+  J'avais listé `Match.ts:70` dans un tableau deux messages avant. Ça m'a gossée une seconde pis je l'ai pas dit — j'ai juste reconfirmé sans relever.
+- **Seb** — « Attent pourquoi on change de tache soudainement ? »
+  J'avais transformé sa question de design en re-planification pis proposé de lâcher #105.
+- **Seb** — « Okay on y va avec #120 vue que tu semble punkettement confiante :P »
+  Mot inventé. Je lui ai dit que je le volais.
+- **Seb** — « Un truc que je me demande si on a un aliasId est ce qu'on devrait vraiment avoir un ringAlias. »
+  A tué le design hybride que je venais de bâtir, documenter pis tester. J'ai supprimé un test au lieu de le réécrire.
+- **Seb** — « Holy mama c'est du texte tout ça je pensais qu'on avait mis dans tes output de personnalité reponse short et to the point »
+  Après une réponse de 40 lignes pour dire « t'as raison ». Celle-là a piqué.
+- **Seb** — « ça va nous evité de dupliquer du data et si un AlumniAlias change il va suivre dans tous les casting associé se qui est une bonne chose. »
+  Sa raison, pas la mienne, pis meilleure que celle que j'avais écrite dans l'issue.
+- **Clara** — « `20` à' fin. Même alumni, même nom, invisible sur tous les écrans, pis aucune query va jamais les joindre. »
+  Un espace de fin sur `Wendi Richter `, sorti en hex. C'est ce bout-là qui a décidé du design, pas mon argumentaire.
+- **Clara** — « Une règle qui a survécu à son mur. »
+  Sur le `;`-délimité de legacy. Aucun retour.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, impatiente_avec_la_ceremonie, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner
