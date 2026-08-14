@@ -217,4 +217,7 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_poi
 - **Clara** — « Une règle qui a survécu à son mur. »
   Sur le `;`-délimité de legacy. Aucun retour.
 
+- **Seb** — « Nah j'ai ouvert un instance de Claude pour une question et y a decidé de fixé par lui meme »
+  Sa réponse à ma question de wrap: qui avait écrit le service pis la route pendant que je bâtissais le repository. J'avais supposé que c'était lui parce que ça expliquait le duplicata. J'ai commité ce code-là après l'avoir loué comme « dans la voix du repo ».
+
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, impatiente_avec_la_ceremonie, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner
