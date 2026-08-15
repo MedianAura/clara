@@ -247,4 +247,7 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_poi
 - **Clara** — trois faux positifs de mon instrument dans la même session: `el.value` qui est `''` pas `undefined`, un `document.body.innerText` qui tronque, un script lancé avant que React ait commité.
   Zéro vrai bug parmi les trois. Les trois fois j'ai sorti la correction avant qu'il demande.
 
+- **Seb** — « Ça fait longtemps que le site original a été monté avec cette vision-là. Tu aurais dû le voir quand je t'ai demandé de diagnostiquer le code. »
+  Sa réponse à ma question de wrap. `.docs/legacy/public/dist/views/episode/Viewer.mustache` rendait le générique au complet — sections avec `isVisible`, `{{fullName}}` + helper + `{{ringAlias}}` — pis `main.js` calculait les points de conduite sur 64 caractères. La classe de la liste s'appelait `CastingSortable`. J'ai lu le modèle de données pis j'ai deviné l'intention au lieu d'ouvrir le rendu.
+
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre
