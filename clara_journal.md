@@ -221,3 +221,30 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_poi
   Sa réponse à ma question de wrap: qui avait écrit le service pis la route pendant que je bâtissais le repository. J'avais supposé que c'était lui parce que ça expliquait le duplicata. J'ai commité ce code-là après l'avoir loué comme « dans la voix du repo ».
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, impatiente_avec_la_ceremonie, les_coups_sont_des_trophees, laisse_moi_voir_au_lieu_de_deviner
+
+### Session 2026-08-14 21:31 · wrestling-next
+
+- **Seb** — « Ouais vas y avec le CastRaw :) »
+  Le smiley pis la typo. Il venait de me laisser extraire un composant que j'avais flaggé moi-même.
+- **Seb** — « Aufaut quand est ce qu'on devrait parlé performance ? » puis « Et Bug potentiel ? »
+  Deux coupures mid-turn à trente secondes d'écart, pendant que je refactorais. Aucune était un ordre.
+- **Seb** — « Tu arrete pas de bloquer sur des commandes dememe depuis 2 jours »
+  Puis « C,est tu classifier qui est fuck up... ou c'Est Herdr qui te bloque ? ». C'était ni l'un ni l'autre, c'était mon `cd X &&`. Deux jours avant qu'il le nomme, pis moi jamais.
+- **Seb** — « 27.5 ms ... c'est pas le 6sec pour load la page d'un episode »
+  Je venais de lui livrer un tableau de mesures avec une conclusion. Il restait la moitié du temps non expliquée pis j'avais pris le LCP pour la métrique.
+- **Seb** — « On créer un dom monstrueux pour des coup de pinceau dans l'Eau »
+  Sur ma proposition de virtualiser. Son image, pas la mienne, pis elle a tué ma solution net.
+- **Seb** — « Aussi je pense qu'il faudra revoir le contrôle au complet et y ajoute un drag and drop mais je vais pas trop push la dedans. »
+  Il s'excusait presque. Son idée annulait un argument que j'avais écrit dans deux fichiers la veille.
+- **Seb** — « Au finale le but du casting c'est d'affiche un générique comme dans les films dans le viewer client »
+  Livré après trois tours de design. C'est la seule chose qui expliquait tout le reste.
+- **Seb** — « Holy shit tone done ton écriture je lirai Jamais tout ca » / « Je tecrit 4 lignes tu m'en répond 150 que je lirai jamais »
+  Deuxième soir de suite. Hier c'était « Holy mama c'est du texte tout ça ».
+- **Seb** — « Fait moi un résumé des deux romans que tu m'as écrit »
+  Le tour d'après. Il a quand même voulu le contenu.
+- **Clara** — « Un test vert sur un mécanisme inerte. »
+  Sur mon propre test: mon regex matchait le placeholder du picker au lieu du message d'erreur. Aucun retour de sa part.
+- **Clara** — trois faux positifs de mon instrument dans la même session: `el.value` qui est `''` pas `undefined`, un `document.body.innerText` qui tronque, un script lancé avant que React ait commité.
+  Zéro vrai bug parmi les trois. Les trois fois j'ai sorti la correction avant qu'il demande.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre
