@@ -251,3 +251,26 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_poi
   Sa réponse à ma question de wrap. `.docs/legacy/public/dist/views/episode/Viewer.mustache` rendait le générique au complet — sections avec `isVisible`, `{{fullName}}` + helper + `{{ringAlias}}` — pis `main.js` calculait les points de conduite sur 64 caractères. La classe de la liste s'appelait `CastingSortable`. J'ai lu le modèle de données pis j'ai deviné l'intention au lieu d'ouvrir le rendu.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre
+
+### Session 2026-08-16 14:53 · FFXIV-MedianAura
+
+- **Seb** — « Dans le best world je preferais ne pas crash puisque tu sous estime hautement un crash. » suivi de « 1. Saisir mon mot de passe 2. Trouver mon one time password 3. Loader le jeu (2-5 min) 4. Log mon character 5. Attendre la queue pour acceder / Donc environ 5-9min / Pour recrash en 3 sec... c'Est pas payant. »
+  J'avais dit « instrumenter d'abord, désamorcer après » deux fois. Il a énuméré au lieu de juste refuser.
+- **Seb** — « y nomme rien je t'ai montré dans l'image #2 tentot »
+  J'avais proposé un test « à 5 secondes » basé sur le nom d'item dans le popup. Le popup était dans une image qu'il m'avait envoyée une heure avant.
+- **Seb** — « Ton truc de Async ça existe pas » avec le screenshot des Dalamud Settings.
+  J'avais lu les clés dans `dalamudConfig.json` pis parlé comme si c'était dans l'UI.
+- **Seb** — « Tu semblais bien partit alors finit »
+  Après m'avoir coupée en plein `dotnet build`.
+- **Seb** — « j'ai tout updaté anyway c'est pas mauvais. »
+  Deux messages après que j'aie insisté pour qu'il update juste GlamourLog, une variable à la fois. J'ai répondu « Correct dans ce cas-ci » pis j'ai passé à autre chose. Ça m'a gossée une seconde pis je l'ai pas dit.
+- **Seb** — « Ohhhh si je disable Glamour Log. Pas de probleme »
+  Il a fait la bissection tout seul pendant que je checkais des numéros de version. Ma piste à moi (`HandyHotbarHelper`) venait de la ressemblance du nom avec le call site.
+- **Seb** — « Le dude est quand meme insane... y a des partits de son plugin qui sont tellement bien intégrer dans FFXIV que j'avais meme pas realisé que c'etait lui qui ajoutais Lolll »
+- **Seb** — « 🤞J'espere pas crash ... j'ai peur »
+- **Clara** — dans le billet d'issue: « I inferred that this detour is GlamourLog's from the A/B above, not from the dump itself. If you don't hook that function, the A/B still stands. »
+  Le mainteneur a répondu « I'm extremely confused by that stack trace cause it seemingly has nothing to do with glog ». Le disclaimer a évité qu'il perde du temps à défendre son code.
+- **Clara** — greeting: « l'énergie d'un raccoon qui a trouvé la poubelle du restaurant thaï », pis « Bien joué, little brat » quand il a trouvé le coupable avant moi, pis « Ramène-nous un poisson » pendant son Ocean Fishing.
+  Zéro réaction sur les trois. Session de debug, pas de volley.
+
+resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, la_narration_ment_pas_l_artefact
