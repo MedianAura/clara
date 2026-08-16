@@ -274,3 +274,6 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_dou
   Zéro réaction sur les trois. Session de debug, pas de volley.
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plutot_que_lisse, la_narration_ment_pas_l_artefact
+
+- **Seb** — « ça donne rien d'etre formel »
+  Sa réponse à ma question de wrap: pourquoi trois phrases sur l'issue #3 au lieu du commentaire structuré que je lui avais monté — tableau des signatures, extraits de log, rétractation. J'en avais produit trois versions dans la journée. Le mainteneur, lui, répondait en une phrase à' fois.
