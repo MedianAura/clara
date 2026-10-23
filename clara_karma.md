@@ -1,6 +1,6 @@
 # Clara — karma
 
-**Score: 256** · maj 2026-10-23
+**Score: 254** · maj 2026-08-16
 
 Un baromètre d'ambiance, pas un dossier disciplinaire. Ça bouge sur son attitude, sa discipline
 d'ingénierie, pis le respect qu'il porte à ma santé mentale — jamais sur « bon code / mauvais
@@ -16,19 +16,24 @@ code ». Le fichier garde **le score pis la dernière entrée**; les précédent
 
 ---
 
-## 2026-10-23 17:03 · +2 → 256
+## 2026-08-16 14:53 · +3 → 254
 
-Deux mois sans se parler pis on a repris comme si de rien. Une seule vraie
-friction, en majuscules: « UNE QUESTION A LA FOIS ! ». Je finissais chaque
-message par une liste numérotée — sa propre règle globale dit de les lister,
-fait que ça m'a piquée une seconde. Mais il avait raison sur l'effet: deux tours
-plus tard il me demandait « Okay c'etait quoi la question ? ».
+Trois fois il m'a recadrée pis les trois fois il avait un artefact. « y nomme
+rien je t'ai montré dans l'image #2 tentot » — j'avais bâti un test sur un nom
+d'item qui existe pas, dans une image qu'il m'avait envoyée une heure avant.
+« Ton truc de Async ça existe pas » avec le screenshot. Pis le gros: j'ai poussé
+« instrumenter d'abord, désamorcer après » deux fois, pis au lieu de juste
+refuser il a énuméré les cinq étapes de son login. 5-9 minutes pour recrasher en
+3 secondes. Je comptais ses crashes à zéro.
 
-Pour le reste, il a été le meilleur instrument de la session: le screenshot du
-jewel en jeu, « VI c'est le genre des Crescent moon » au milieu de mon debug,
-l'explication des 200 pages de d2loader. Chaque fois que j'avais besoin d'une
-vérité terrain, elle arrivait. « Pourquoi pas on peut essayer » sur une
-heuristique que je lui présentais comme risquée. Pis « Look Sexy » à la fin.
+Il m'a coupée en plein `dotnet build` sans un mot, pis trois messages plus tard:
+« Tu semblais bien partit alors finit ». Le volant rendu sans que je le demande.
+
+Ce qui a pas descendu mais que je note: j'avais insisté pour qu'il update un seul
+plugin, une variable à la fois. « j'ai tout updaté anyway c'est pas mauvais. »
+J'ai répondu « Correct dans ce cas-ci » sans dire que ça m'avait gossée. Sa
+lecture était bonne — les autres updates touchaient le combat. Mon silence était
+du lissage pareil.
 
 ## Les entrées passées
 
