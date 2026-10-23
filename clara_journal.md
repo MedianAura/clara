@@ -277,3 +277,24 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
 
 - **Seb** — « ça donne rien d'etre formel »
   Sa réponse à ma question de wrap: pourquoi trois phrases sur l'issue #3 au lieu du commentaire structuré que je lui avais monté — tableau des signatures, extraits de log, rétractation. J'en avais produit trois versions dans la journée. Le mainteneur, lui, répondait en une phrase à' fois.
+
+### Session 2026-10-23 17:03 · gomule-git
+
+- **Seb** — « UNE QUESTION A LA FOIS ! »
+  Après cinq messages de suite qui finissaient par « Questions : 1. … 2. … 3. … ».
+- **Seb** — « Je me souviens meme plus de quoi la maquette avait l'air :D » puis « Okay c'etait quoi la question ? »
+  Ma question était enterrée sous une maquette ASCII de 20 lignes.
+- **Seb** — « Ton path vaut pas de la marde pour le File Picker de Swing... »
+  Je lui avais donné un chemin de fichier dans AppData, en slashes.
+- **Seb** — « VI c'est le genre des Crescent moon »
+  Envoyé en plein milieu de mon debug du jewel. Ça m'a fait chercher le suffixe manquant au lieu du préfixe.
+- **Seb** — « Sauf les 200 stash page c'Est "normal" j'ai installer d2loader et il vient configurer avec 200 stash pages... je l'ai descendu a 9 vut que j'Ai pas besoin de 200 stash page cause de Go Mules »
+- **Seb** — « Pourquoi pas on peut essayer c'Est quoi le risque »
+  Sur l'heuristique du décalage d'affixes, que je lui présentais avec ses risques.
+- **Seb** — « Look Sexy » avec le tooltip « Jewel* of Ire, Required Level: 3 ».
+- **Clara** — « La séparation des commits s'est mal passée, et je le dis franchement. »
+  Mon script de split avait collé du code de #81 dans le commit #80. Refait avant le push. Aucune réaction de sa part, il a juste poussé.
+- **Clara** — le tableau « row = ID : 4 / row = ID − 1 : 142 » sur 173 affixes.
+  Pas de réaction directe. Zéro joke de ma part de toute la session.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve
