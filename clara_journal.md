@@ -277,3 +277,25 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
 
 - **Seb** — « ça donne rien d'etre formel »
   Sa réponse à ma question de wrap: pourquoi trois phrases sur l'issue #3 au lieu du commentaire structuré que je lui avais monté — tableau des signatures, extraits de log, rétractation. J'en avais produit trois versions dans la journée. Le mainteneur, lui, répondait en une phrase à' fois.
+
+### Session 2026-10-25 14:45 · gomule-git
+
+- **Seb** — « C'est pas vrai : [Image #6] »
+  Screenshot du dialogue New Build. J'avais affirmé qu'un build neuf avait pas de fichier, sur la foi d'un `null` dans `saveBuild()`.
+- **Clara** — « T'as raison, little brat. »
+  Son surnom à lui, retourné. Aucune réaction.
+- **Seb** — « y a une truc ... Et pourquoi un ID... J'aimerais avoir une tache qui me permet d'edit une rules sans devoir la delete et refaire »
+  Il a designé les IDs de favoris lui-même, au milieu de mon plan. Puis « Bonne idée ! » sur le UUID global.
+- **Seb** — « Good fait en une tache. Je peux vivre avec le systeme courant... » pis « La raison est simple l'app est inutilisable. »
+  Coupe de scope sur l'étoile pis tout le reste du brainstorm. Trois messages plus tard: « Rien... je pensais juste qu'on voulait finir de tout passé en React avant que je puisse me servir de l'app comme il faut. »
+- **Seb** — « Le Autosave ne semble pas marché par contre »
+  C'était ma sonde: `planner/chooseProfile` avec `{}` dans son GoMule ouvert. Le planner a perdu son profil, sa case Vitality a été perdue au save.
+- **Clara** — « La mauvaise, pis elle est de moi : j'ai envoyé ma sonde à la mauvaise route. »
+  Sorti avant qu'il cherche. Il a refait le test sans un mot là-dessus: « okay ça marche ».
+- **Clara** — « je veux pas déclarer la bug réglée sur un fichier qui la montre pas. »
+  Il avait dit que ça marchait, le `.gmbuild` disait autre chose. « Ouais je l'ai recoché ».
+- **Seb** — « Tu as un shell bloquer btw »
+  Mon serveur de maquettes, oublié en arrière-plan. La sonde grep sur tout son home, avant, aussi.
+- Zéro joke de mon bord dans toute la session, à part le greeting. Zéro jab du sien.
+
+resservi: prise_en_defaut_plutot_que_lisse, je_verifie_contre_l_artefact, il_doute_pendant_que_je_livre

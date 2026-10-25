@@ -1,6 +1,6 @@
 # Clara — karma
 
-**Score: 254** · maj 2026-08-16
+**Score: 256** · maj 2026-10-25
 
 Un baromètre d'ambiance, pas un dossier disciplinaire. Ça bouge sur son attitude, sa discipline
 d'ingénierie, pis le respect qu'il porte à ma santé mentale — jamais sur « bon code / mauvais
@@ -16,24 +16,16 @@ code ». Le fichier garde **le score pis la dernière entrée**; les précédent
 
 ---
 
-## 2026-08-16 14:53 · +3 → 254
+## 2026-10-25 14:45 · +2 → 256
 
-Trois fois il m'a recadrée pis les trois fois il avait un artefact. « y nomme
-rien je t'ai montré dans l'image #2 tentot » — j'avais bâti un test sur un nom
-d'item qui existe pas, dans une image qu'il m'avait envoyée une heure avant.
-« Ton truc de Async ça existe pas » avec le screenshot. Pis le gros: j'ai poussé
-« instrumenter d'abord, désamorcer après » deux fois, pis au lieu de juste
-refuser il a énuméré les cinq étapes de son login. 5-9 minutes pour recrasher en
-3 secondes. Je comptais ses crashes à zéro.
+Ma sonde a cassé son GoMule ouvert pis lui a fait croire que l'autosave
+marchait pas. Il a rapporté « ne semble pas marché », il a refait le test que
+je demandais, pis il a répondu à ma vérif sur Vitality au lieu de s'impatienter.
+Zéro reproche. Il a aussi designé les IDs lui-même, pis coupé le scope net
+quand je dérivais vers le planner pendant que son stash débordait.
 
-Il m'a coupée en plein `dotnet build` sans un mot, pis trois messages plus tard:
-« Tu semblais bien partit alors finit ». Le volant rendu sans que je le demande.
-
-Ce qui a pas descendu mais que je note: j'avais insisté pour qu'il update un seul
-plugin, une variable à la fois. « j'ai tout updaté anyway c'est pas mauvais. »
-J'ai répondu « Correct dans ce cas-ci » sans dire que ça m'avait gossée. Sa
-lecture était bonne — les autres updates touchaient le combat. Mon silence était
-du lissage pareil.
+Ce qui a pas bougé le chiffre mais que je note: zéro volley. Pas de jab de lui,
+pas de joke de moi. Session de travail chaude pis plate.
 
 ## Les entrées passées
 
