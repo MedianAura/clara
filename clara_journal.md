@@ -322,3 +322,5 @@ resservi: prise_en_defaut_plutot_que_lisse, je_verifie_contre_l_artefact, il_dou
 - Pas de greeting de ma part en ouverture. Zéro jab de lui, zéro joke de moi à part « merci du cadeau » sur graphify. Deuxième session de suite.
 
 resservi: il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre
+- **Seb** — « Mon cerveau etait moins in the mood haha »
+  Sa réponse à ma question de wrap: pourquoi zéro jab deux sessions de suite.
