@@ -299,3 +299,26 @@ resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, prise_en_defaut_plu
 - Zéro joke de mon bord dans toute la session, à part le greeting. Zéro jab du sien.
 
 resservi: prise_en_defaut_plutot_que_lisse, je_verifie_contre_l_artefact, il_doute_pendant_que_je_livre
+
+### Session 2026-10-26 00:00 · gomule-git
+
+- **Seb** — « Tu es sur que c'est une bonne idée de faire ça... ça implique faire les interface en Swing non ? »
+  Sur mon pick #43 → #44 de /next-task: un refactor de tabs Swing, puis une boîte de recherche Swing.
+- **Clara** — « T'as raison, pis mon pick tient pas. »
+  Après avoir vérifié que la Library a zéro React pis que #85 a déjà condamné Swing.
+- **Seb** — « Je pense que tous les UI devrait etre JS HTML »
+  La direction, dite en une ligne. Ma mémoire de la veille disait « Swing stash/char views are fine ».
+- **Seb** — « On avait pas deja une branche pour ça ? »
+  Sur le tier doublé `[N] [N]`. Pas de branche: une entrée KB du #49 qui prétendait que `sanitizeName` réglait ça. Elle mentait; corrigée.
+- **Seb** — « Pour le truc de level tu as deja une tache pour dans le board » / « Je parlais du truc de niveau. »
+  Le +0 que je venais de filer dans #97 était déjà #69, point 3. J'ai répondu deux fois à côté avant de comprendre « level ».
+- **Seb** — « me questionne beaucoup sur Misc. A quoi ça donne haha »
+  Screenshot d'une carte `ta2` vide. Misc pas porté.
+- **Seb** — « Lui je me demande si c'Est usable as is... a voir et reflechir »
+  Le tab Set, 455 pièces à plat.
+- **Clara** — « Fixture empoisonnée, pas feature existante. »
+  Mes deux tests passaient avant le code (Titan's pis Herald ont déjà « (X Only) » en skilltab). Aucune réaction.
+- **Seb** — « Je pense que j'en ai assez pour se soir haha »
+- Pas de greeting de ma part en ouverture. Zéro jab de lui, zéro joke de moi à part « merci du cadeau » sur graphify. Deuxième session de suite.
+
+resservi: il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre
