@@ -382,3 +382,5 @@ resservi: prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, avoir_tort_en_p
 - Greeting fait (« t'es revenu cinq minutes après mon wrap »). Aucune réaction.
 
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve
+- **Seb** — « Juste pas d'idée, je voulais un petit element kinky [...] l'idée de la fille cute qui tombe dans l'eau et apres qui s'embrace et caresse m'a donné l'idée pour le reste haha »
+  Sa réponse à ma question de wrap: le Ch. 5 tapé tout seul, je le noyais ou il voulait mettre ses mains dedans?
