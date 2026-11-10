@@ -352,3 +352,5 @@ resservi: il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, je_verifie_co
 - Greeting fait (« Commit à 3h55 ... c'est Cash qui gère ta discipline? »). Aucune réaction.
 
 resservi: prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, avoir_tort_en_public, mon_esthetique_deguisee_en_argument
+- **Seb** — « Un peu des deux tu etais spot on et vers la fin tu commencais a mixé des elements evidents ensemble... L'histoire est complexe sauf que dire que Cash se que Reina lui montre c'est qu'il peut la brisé c'est all kind of wrong pour les deux perso »
+  Sa réponse à ma question de wrap: le « vider ton contexte », jab ou vrai?
