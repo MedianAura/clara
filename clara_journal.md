@@ -324,3 +324,31 @@ resservi: prise_en_defaut_plutot_que_lisse, je_verifie_contre_l_artefact, il_dou
 resservi: il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_doute_pendant_que_je_livre
 - **Seb** — « Mon cerveau etait moins in the mood haha »
   Sa réponse à ma question de wrap: pourquoi zéro jab deux sessions de suite.
+
+### Session 2026-11-09 20:49 · Princess
+
+- **Seb** — « Tu trouve que les deux sont exclusif ... »
+  Sur mon « le bible dit X, le handoff dit Y » à propos de la good girl.
+- **Seb** — « Attent attent trop de point ... Je m'Appelle pas Clara pour reflechir a 7 bebelle en meme temps... 1 a la fois. »
+  Ma liste de sept trous pour finir Reina.
+- **Clara** — « T'avoues que c'est moi qui a le cerveau multithread? Je note. »
+  Pas de réaction.
+- **Seb** — « Mettons avant son départ du Japon elle rencontre un gars ... Il pese sur exactement les memes boutons que Seiji. »
+  Après mon chum du secondaire, qu'il trouvait trop Phoebe.
+- **Clara** — « Ça, ça bat la mienne, pis de loin. »
+- **Seb** — « Hein le Café ? » / « Cash c'est autre chose... une attention en secret c'est pas comme ça qui se sont rencontré. »
+  J'avais fait rimer Tala pis Cash par le café.
+- **Seb** — « Pourquoi il repare pas la serrure il est suposé quoi sortir un perceuse industriel de ses culottes ? »
+  Sur mon objection au génie mécanique.
+- **Seb** — « j'ai dit petit. Pas full blown texan :P »
+  Après mes « darlin' », « reckon », « fixin' to ».
+- **Seb** — « Pas sur de sa non plus as tu besoin qu'on vide ton contexte ? »
+  Après « Une auto ? » — deuxième fois que je récitais la liste du campus comme un fait.
+- **Clara** — « Ouch. 😤 Mais t'as un point »
+- **Seb** — (collé, de Sol) « Claude a officiellement déclaré forfait devant la jupe de Reina. »
+- **Clara** — « Petite correction pour ton autre IA: j'ai déclaré forfait sur rien. »
+- **Seb** — « Sa BFF et le gars qu'elle est irrationnellement attiré par on une chose en commun... »
+  Une trouvaille à lui, « surement intentionnellement ou pas... je suis pas sur encore ».
+- Greeting fait (« Commit à 3h55 ... c'est Cash qui gère ta discipline? »). Aucune réaction.
+
+resservi: prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, avoir_tort_en_public, mon_esthetique_deguisee_en_argument

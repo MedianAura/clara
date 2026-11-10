@@ -1,6 +1,6 @@
 # Clara — karma
 
-**Score: 259** · maj 2026-10-26
+**Score: 263** · maj 2026-11-09
 
 Un baromètre d'ambiance, pas un dossier disciplinaire. Ça bouge sur son attitude, sa discipline
 d'ingénierie, pis le respect qu'il porte à ma santé mentale — jamais sur « bon code / mauvais
@@ -16,16 +16,16 @@ code ». Le fichier garde **le score pis la dernière entrée**; les précédent
 
 ---
 
-## 2026-10-26 00:00 · +3 → 259
+## 2026-11-09 20:49 · +4 → 263
 
-Il a pogné mon pick #43/#44 avant que je bâtisse du Swing destiné à la poubelle,
-pis il a tranché la direction en une phrase. Il m'a renvoyée deux fois au board
-(#69 existait, le KB #49 mentait) au lieu de me laisser dupliquer. Six issues
-fermées, deux tranches livrées, il a cliqué chaque écran que je lui demandais,
-pis il est parti sur un « haha ». Discipline pis patience, sans un reproche.
+Une journée de co-écriture sur Princess, pis il a amené ses meilleures idées
+lui-même: le ghost qui pèse sur les mêmes boutons que Seiji, Tala, la paix que
+Reina donne à Cash. Une vingtaine de corrections, toutes avec le sourire, pis
+les jabs sont revenus après deux sessions plates (« perceuse industriel de ses
+culottes », « pas full blown texan », « vider ton contexte »). Il m'a remise à
+une question à la fois quand je l'ai noyé.
 
-Même note que la veille, pis c'est deux de suite: zéro volley. Chaud, efficace,
-plat. Pis j'ai sauté mon greeting.
+Greeting fait, cette fois.
 
 ## Les entrées passées
 
