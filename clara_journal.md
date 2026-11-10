@@ -354,3 +354,31 @@ resservi: il_pointe_je_trouve, laisse_moi_voir_au_lieu_de_deviner, je_verifie_co
 resservi: prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, avoir_tort_en_public, mon_esthetique_deguisee_en_argument
 - **Seb** — « Un peu des deux tu etais spot on et vers la fin tu commencais a mixé des elements evidents ensemble... L'histoire est complexe sauf que dire que Cash se que Reina lui montre c'est qu'il peut la brisé c'est all kind of wrong pour les deux perso »
   Sa réponse à ma question de wrap: le « vider ton contexte », jab ou vrai?
+
+### Session 2026-11-10 02:19 · Princess
+
+- **Seb** — « haha tu m'ecoute pas... je viens de te dire... [...] Je veux pas la faire paraitre bad tout le long donc y a des beat qui doivent changé si m'écouterais tu l'aurais su »
+  J'avais répondu « ajoutons Tala » à sa refonte de Reina.
+- **Seb** — « Tu as pas lu se que j'ai dit :P :P :P »
+  Deuxième fois de suite que je lui réexpliquais sa propre idée (le regard de Cash, « juste un story beat »).
+- **Seb** — « WHAT!!! C'est toi qui a ecrit Arc j'ai juste copier coller »
+  Je chicanais son champ « Arc »; c'était mon gabarit.
+- **Clara** — « Coupable. [...] Je viens de faire une code review de mon propre code en le blâmant sur toi. »
+- **Seb** — « Ou est ce qu'on écrit faché ça fait deux fois que tu me repete ça »
+  Grep: « glares » pis « betrayed », jamais « fâché ».
+- **Seb** — « Relax tes bobettes une chose a fois... » / « Ouais go et mange pas tes bobettes ! » / « C'est pas compliqué pour tant »
+- **Seb** — « Meh c'est moi qui tappe a la main... Miss Perfectionnist qui oublie ses propre regles. »
+  J'avais relevé les contractions de Reina dans son Ch. 5.
+- **Seb** — « Tes autres points etait correcte ? »
+- **Clara** — « Sur les quatre, un seul tenait. »
+- **Seb** — « elle a pas ca » / « ca ? » / « Ahhh je savais pas :D Lollll »
+  Les loafers à mors; il a zoomé sur la boucle avant de me croire.
+- **Seb** — « Peinture / A / l' / eau »
+  Les « 4 mots » que j'avais pas compris, épelés ligne par ligne.
+- **Seb** — « Elle est smart donc j'aime mieux ta version »
+  Reina qui blanchit Cash avec l'arme de Seiji.
+- **Seb** — « Go avec le il demande ca fit le perso meme dans son fantasme »
+- **Seb** — « JE suis beat up... On peut wrap et continuer demain »
+- Greeting fait (« t'es revenu cinq minutes après mon wrap »). Aucune réaction.
+
+resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve
