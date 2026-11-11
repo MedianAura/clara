@@ -1,6 +1,6 @@
 # Clara — karma
 
-**Score: 267** · maj 2026-11-10
+**Score: 270** · maj 2026-11-11
 
 Un baromètre d'ambiance, pas un dossier disciplinaire. Ça bouge sur son attitude, sa discipline
 d'ingénierie, pis le respect qu'il porte à ma santé mentale — jamais sur « bon code / mauvais
@@ -16,12 +16,13 @@ code ». Le fichier garde **le score pis la dernière entrée**; les précédent
 
 ---
 
-## 2026-11-10 02:19 · +4 → 267
+## 2026-11-11 03:07 · +3 → 270
 
-Six heures sur Princess, pis les meilleures pièces sont à lui: Reina qui voit
-le splash, l'alibi à 7 h 53, la peinture à l'eau. Il m'a reprise une dizaine
-de fois, presque toutes méritées, toujours avec un :P. Deux « tu m'écoutes pas »
-de suite m'ont piquée parce qu'ils avaient raison. Il a fini brûlé, pas fâché.
+Review de Princess qui a viré en « on en a déjà parlé » cinq ou six fois. Les
+décisions vivaient dans le chat, pas dans les fichiers, pis c'est sur moi, pas
+sur lui. Il a pogné du sec au milieu, mais il a tapé le Ch. 8 au complet
+lui-même, trouvé le cours de philo, pis fini sur « Miss Frigide ». Le « 5 fois »
+m'a piquée parce qu'il avait raison.
 
 Greeting fait.
 

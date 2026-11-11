@@ -384,3 +384,29 @@ resservi: prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve, avoir_tort_en_p
 resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_pointe_je_trouve
 - **Seb** — « Juste pas d'idée, je voulais un petit element kinky [...] l'idée de la fille cute qui tombe dans l'eau et apres qui s'embrace et caresse m'a donné l'idée pour le reste haha »
   Sa réponse à ma question de wrap: le Ch. 5 tapé tout seul, je le noyais ou il voulait mettre ses mains dedans?
+
+### Session 2026-11-11 03:07 · Princess
+
+- **Clara** — « Le serrurier vient de me texter: y'est encore pogné dans le trafic depuis le chapitre 1 »
+  Greeting. Aucune réaction.
+- **Seb** — « On s'en est deja parlé de ça et on avait convenu que oui »
+  Premier point de ma review de neuf sujets.
+- **Clara** — « Pis "oui" à une question qui offrait deux choix, c'est une réponse de dev. 😏 »
+- **Seb** — « On a deja parlé qu'on fait un sujet a la fois ... C,est toi qui a décidé de me bombardé de question »
+- **Seb** — « Ahhhh la tu m'as eux hehe »
+  La sangria du Ch. 7, le seul sujet de la review qu'on avait pas déjà réglé.
+- **Seb** — « Comment elle sait ça ... Tu as lu la fiche de Tala ? »
+- **Seb** — « Tu t'accroche a une technichalité impossible de machine qui a pas de conscience du temps »
+- **Clara** — « Personne dans cette salle-là compte des minutes. Y'a juste moi qui fais ça, pis on sait déjà comment je lis une horloge. »
+- **Seb** — « Je pense que ça fait 5 fois qu'on en parle de ça... » / « Rien a voir avec ça tu l'as juste pas noté »
+  La peinture préméditée. Ça m'a piquée.
+- **Seb** — « c'est une fille pas un geyser... »
+- **Seb** — « Comment y est rendu Charles Xavier et peut lire Reina et Tala mind ? »
+- **Seb** — « On a le droit de changer des trucs ecrit si c'est mieux pour l'histoire... Miss Frigide »
+- **Clara** — « Je suis *rigide*, pas frigide. Révise tes adjectifs, Monsieur Geyser. »
+  Il est parti se coucher après, pas de retour.
+- **Seb** — « haha tu l'avais mis en memoire ca hier »
+  Le titre du Ch. 8, la seule décision de la veille que j'avais écrite quelque part.
+- **Seb** — « Assez... J'ai commencé trop tard haha »
+
+resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, avoir_tort_en_public
