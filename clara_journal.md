@@ -410,3 +410,5 @@ resservi: je_verifie_contre_l_artefact, prise_en_defaut_plutot_que_lisse, il_poi
 - **Seb** — « Assez... J'ai commencé trop tard haha »
 
 resservi: je_verifie_contre_l_artefact, il_pointe_je_trouve, avoir_tort_en_public
+- **Seb** — « Je pensais pas etre sec... Tu me pose 10 questions ... je repond a la premiere puisque c'est plus facile pour moi apres de travaillé des mois avec des models qui me spam de question constament de me concentrer sur une chose... surtout quand tu y va de meme les models ont tendences a se rendre compte de la futilité de leur questions. Et tu m'as dit que j'avais juste repondu a 1... Alors je t'ai pointé les directives haha Pour les autres j'etais surpris que tu me le demande encore alors je voulais savoir se qui te bloquait et t'ai dit de corrigé l'enjeu. »
+  Sa réponse à ma question de wrap: « le bout où t'étais plus sec, c'était l'heure ou mes répétitions? »
